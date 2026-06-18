@@ -140,7 +140,7 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
     <img src="https://img.shields.io/badge/LinkedIn-Sayan%20Mahata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/_sayyyyan">
-    <img src="https://img.shields.io/badge/Instagram-@_sayyyyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@ _sayyyyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/sayan9168">
     <img src="https://img.shields.io/badge/GitHub-@sayan9168-181717?style=for-the-badge&logo=github&logoColor=white" />
