@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=300&section=header&text=Sayan%20Mahata&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cisco%20Certified%20Ethical%20Hacker%20|%20AI%20%26%20Cloud%20Security%20Expert&descAlignY=60&descSize=22&descColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=300&section=header&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cisco%20Certified%20Ethical%20Hacker%20|%20AI%20%26%20Cloud%20Security%20Expert&descAlignY=60&descSize=22&descColor=00FFFF" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=root@sayan9168:~$+whoami;Sayan+Mahata+|+CEH+Certified;Initializing+Cyber+Matrix...;Loading+Security+Protocols...;Ethical+Hacker+and+Developer+Online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=root@sayan9168:~$+whoami;CEH+Certified+Professional;Initializing+Cyber+Matrix...;Loading+Security+Protocols...;Ethical+Hacker+and+Developer+Online" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-00FF00?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Age-17-754dff?style=for-the-badge" alt="Age" />
 </p>
 
 <p align="center">
@@ -30,14 +29,13 @@
 
 ```bash
 > whoami
-Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India
+Cisco Certified Ethical Hacker (CEH) | Medinipur, India
 
 > cat current_status.txt
 - Education: Class 12 (Pursuing B.Sc and MCA)
 - Current Focus: Advanced System Architecture, Reverse Engineering and AI Security
 - Specialty: Penetration Testing, Cloud Security, AI Integration
 - Philosophy: "Code is poetry, but security is the grammar that keeps it meaningful."
-- Fun Fact: I dream in binary and debug with printf()
 ```
 
 ---
@@ -47,9 +45,9 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Certified_Ethical_Hacker_CEH-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CEH" />
   <img src="https://img.shields.io/badge/IBM-Prompt_Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Prompt" />
-  <img src="https://img.shields.io/badge/Amazon-AI_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS" />  <img src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python" />
-  <img src="https://img.shields.io/badge/Amazon-Prompt_Engineering-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Prompt" />
-  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer_Expert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
+  <img src="https://img.shields.io/badge/Amazon-AI_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python" />
+  <img src="https://img.shields.io/badge/Amazon-Prompt_Engineering-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Prompt" />  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer_Expert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
   <img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
@@ -96,9 +94,9 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India
 
 ## 📊 GitHub Analytics
 
-<div align="center">  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayan9168&show_icons=true&theme=midnight-purple&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sayan9168&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
-</div>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayan9168&show_icons=true&theme=midnight-purple&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sayan9168&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" /></div>
 
 <br>
 
@@ -145,13 +143,13 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India
   </a>
   <a href="https://github.com/sayan9168">
     <img src="https://img.shields.io/badge/GitHub-sayan9168-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a></p>
-
+  </a>
+</p>
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=150&section=footer&animation=fadeIn&fontAlignY=80" alt="Footer" />
   <p align="center" style="font-size: 14px; color: #888; margin-top: 10px;">
-    <i>⭐️ Crafted with 💚 by <b>Sayan Mahata</b> ⭐️</i>
+    <i>⭐️ Crafted with 💚 by <b>sayan9168</b> ⭐️</i>
   </p>
 </div>
