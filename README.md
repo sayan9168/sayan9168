@@ -92,7 +92,7 @@ Cisco Certified Ethical Hacker (CEH) | Medinipur, India
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Advanced GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayan9168&show_icons=true&theme=midnight-purple&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
@@ -107,8 +107,16 @@ Cisco Certified Ethical Hacker (CEH) | Medinipur, India
 <br>
 
 <div align="center">
+  <h3>📈 Most Used Languages</h3>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan9168&layout=donut-vertical&theme=midnight-purple&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=sayan9168&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan9168&layout=compact&theme=midnight-purple&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Language Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🔥 Contribution Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayan9168&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00" alt="Detailed Stats" />
 </div>
 
 ---
@@ -135,21 +143,24 @@ Cisco Certified Ethical Hacker (CEH) | Medinipur, India
   <a href="mailto:sm6881164@gmail.com">
     <img src="https://img.shields.io/badge/Email-sm6881164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/sayan-mahata-a8b321391ata">
+  <a href="https://www.linkedin.com/in/sayan-mahata-a8b321391">
     <img src="https://img.shields.io/badge/LinkedIn-Sayan_Mahata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/_sayyyyan">
+  </a>  <a href="https://instagram.com/_sayyyyan">
     <img src="https://img.shields.io/badge/Instagram-_sayyyyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/sayan9168">
     <img src="https://img.shields.io/badge/GitHub-sayan9168-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=150&section=footer&animation=fadeIn&fontAlignY=80" alt="Footer" />
-  <p align="center" style="font-size: 14px; color: #888; margin-top: 10px;">
-    <i>⭐️ Crafted with 💚 by <b>sayan9168</b> ⭐️</i>
-  </p>
-</div>
+<p align="center" style="font-size: 14px; color: #888;">
+  <i>⭐️ Crafted with 💚 by <b>sayan9168</b> ⭐️</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-00FF00?style=flat-square" alt="Made with Love" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-754dff?style=flat-square" alt="Powered by Coffee" />
+  <img src="https://img.shields.io/badge/Language-English-00FFFF?style=flat-square" alt="Language" />
+</p>
