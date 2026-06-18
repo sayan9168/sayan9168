@@ -1,25 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF00,50:754dff,100:00FFFF&height=300&section=header&text=Sayan%20Mahata&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cisco%20Certified%20Ethical%20Hacker%20|%20AI%20%26%20Cloud%20Security&descAlignY=62&descSize=20&descFontColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=300&section=header&text=Sayan%20Mahata&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Cisco%20Certified%20Ethical%20Hacker%20|%20AI%20%26%20Cloud%20Security&descAlignY=62&descSize=20" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=750&lines=root@sayan9168%3A~%24+whoami;Sayan+Mahata+%7C+CEH+Certified;Initializing+Cyber+Matrix...;Loading+Security+Protocols...;Ethical+Hacker+%26+Developer+Online;Welcome+to+my+Digital+Sanctuary" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=750&lines=root@sayan9168%3A~%24+whoami;Sayan+Mahata+%7C+CEH+Certified;Initializing+Cyber+Matrix...;Loading+Security+Protocols...;Ethical+Hacker+%26+Developer+Online" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢%20Online-00FF00?style=flat-square&logo=github&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-FF9933?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Age-17-754dff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Build-Passing-00FF00?style=flat-square&logo=github&labelColor=0d1117" />
-  <a href="https://github.com/sayan9168">
-    <img src="https://komarev.com/ghpvc/?username=sayan9168&label=Profile%20Views&color=00FF00&style=flat-square&labelColor=0d1117" alt="Profile Views" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-🟢%20Online-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-FF9933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-17-754dff?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sayan9168"><img src="https://img.shields.io/github/followers/sayan9168?style=flat-square&logo=github&label=Followers&color=754dff&labelColor=0d1117" alt="GitHub Followers" /></a>
-  <a href="https://github.com/sayan9168"><img src="https://img.shields.io/github/stars/sayan9168?style=flat-square&logo=github&label=Stars&color=00FFFF&labelColor=0d1117" alt="GitHub Stars" /></a>
-  <a href="https://github.com/sayan9168"><img src="https://img.shields.io/github/repo-count/sayan9168?style=flat-square&logo=github&label=Repos&color=00FF00&labelColor=0d1117" alt="Repos" /></a>
+  <a href="https://github.com/sayan9168"><img src="https://img.shields.io/github/followers/sayan9168?style=for-the-badge&logo=github&label=Followers&color=754dff" /></a>
+  <a href="https://github.com/sayan9168"><img src="https://img.shields.io/github/stars/sayan9168?style=for-the-badge&logo=github&label=Stars&color=00FFFF" /></a>
+  <a href="https://github.com/sayan9168"><img src="https://img.shields.io/badge/Repos-2-green?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -47,10 +43,10 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
   <img src="https://img.shields.io/badge/IBM-Prompt%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon-AI%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon-Prompt%20Engineering-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer%20Expert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon-Prompt%20Engineering-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer%20Expert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -96,10 +92,10 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
 
 ## 📊 Advanced GitHub Analytics
 
-<div align="center">  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayan9168&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayan9168&show_icons=true&theme=midnight-purple&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sayan9168&theme=midnight-purple&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
 </div>
-
 <br>
 
 <div align="center">
@@ -109,31 +105,8 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayan9168&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=sayan9168&limit=5&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayan9168&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan9168&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🌐 Isometric 3D Contributions</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan9168&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FFFF&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan9168&layout=donut-vertical&theme=midnight-purple&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=sayan9168&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
 
 <br>
@@ -145,24 +118,17 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
 
 ---
 
-## 💬 Random Dev Quote
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&font=Fira_Code&layout=default&author=true" alt="Dev Quote" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/sayan9168/GridCloud-Sentinel">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sayan9168&repo=GridCloud-Sentinel&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&icon_color=00FF00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayan9168&repo=GridCloud-Sentinel&theme=midnight-purple&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
   </a>
   <a href="https://github.com/sayan9168/sayan-sec-tool">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sayan9168&repo=sayan-sec-tool&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&icon_color=00FF00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayan9168&repo=sayan-sec-tool&theme=midnight-purple&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
   </a>
   <a href="https://github.com/sayan9168/Joon">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sayan9168&repo=Joon&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&icon_color=00FF00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayan9168&repo=Joon&theme=midnight-purple&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
   </a>
 </div>
 
@@ -179,8 +145,7 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
   </a>
   <a href="https://instagram.com/_sayyyyan">
     <img src="https://img.shields.io/badge/Instagram-@_sayyyyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/sayan9168">
+  </a>  <a href="https://github.com/sayan9168">
     <img src="https://img.shields.io/badge/GitHub-@sayan9168-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -188,12 +153,8 @@ Sayan Mahata | Cisco Certified Ethical Hacker (CEH) | Medinipur, India 🇮🇳
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=150&section=footer&animation=twinkling&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:754dff,100:00FFFF&height=150&section=footer&animation=fadeIn&fontAlignY=80" />
   <p align="center" style="font-size: 14px; color: #888; margin-top: 10px;">
     <i>⭐️ Crafted with 💚 by <b>Sayan Mahata</b> ⭐️</i>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Made%20with-❤️-00FF00?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Powered%20by-Coffee-754dff?style=flat-square&labelColor=0d1117" />    <img src="https://img.shields.io/badge/Last%20Updated-2026-00FFFF?style=flat-square&labelColor=0d1117" />
   </p>
 </div>
