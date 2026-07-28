@@ -1,470 +1,405 @@
-
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: CAPSULE HEADER (VENOM) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Sayan+Mahata;System+Architect+%C2%B7+Security+Researcher;Language+Designer+%C2%B7+Founder" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,25:1a0033,50:0d0d2b,75:001a1a,100:0a0a0a&height=400&section=header&text=%3F%3F%3F&fontSize=120&fontColor=00ff88&animation=twinkling&fontAlignY=30&desc=You%20are%20not%20supposed%20to%20know%20what%20I%20do.&descAlignY=52&descSize=18&descColor=ff0055" width="100%"/>
+<br>
 
-</div>
+### 🔐 Building the Future of Secure Systems
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: TYPING SVG -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=600&color=ff0055&center=true&vCenter=true&width=900&height=80&lines=ERROR:+Identity+not+found;Am+I+a+hacker%3F+Maybe.;Am+I+a+developer%3F+Perhaps.;Am+I+a+researcher%3F+Possibly.;Am+I+an+architect%3F+ Conceivably.;Am+I+a+ghost%3F+Probably.;Am+I+all+of+them%3F+Definitely.;Am+I+none+of+them%3F+...;sudo+rm+-rf+%2Fvar%2Flog%2Fidentity;Nice+try.+Logs+are+already+gone.;I+use+Arch%2C+btw." alt="Typing SVG" />
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/sayan9168?style=social&label=Followers)](https://github.com/sayan9168)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=sayan9168&label=Profile%20Views&countColor=%23263759&style=flat)](https://github.com/sayan9168)
+[![Repos](https://img.shields.io/badge/Public%20Repos-30%2B-58a6ff?style=flat&logo=github)](https://github.com/sayan9168?tab=repositories)
+[![Commits](https://img.shields.io/badge/Commits%20(2026)-1000%2B-success?style=flat&logo=git)](https://github.com/sayan9168)
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: NEOFETCH TERMINAL -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<br>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayan%20Mahata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-mahata-a8b321391)
+[![Instagram](https://img.shields.io/badge/Instagram-_sayyyyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sayyyyan)
+[![Gmail](https://img.shields.io/badge/Gmail-sm6881164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sm6881164@gmail.com)
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  $ cat /etc/shadow                                                      │
-│  Permission denied.                                                     │
-│                                                                         │
-│  $ whoami                                                               │
-│  That's classified.                                                     │
-│                                                                         │
-│  $ file ./sayan                                                         │
-│  ./sayan: data, corrupted, cannot determine type                        │
-│                                                                         │
-│  $ sudo cat identity.txt                                                │
-│  [sudo] password: ********                                              │
-│  ERROR: Identity file is encrypted.                                     │
-│  HINT: I am everything and nothing.                                     │
-│                                                                         │
-│  $ uname -a                                                             │
-│  Linux arch 6.9.4-arch1-1 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux     │
-│                                                                         │
-│  $ echo $ROLE                                                           │
-│  Segmentation fault (core dumped)                                       │
-│                                                                         │
-│  $ neofetch                                                             │
-│       /\            sayan@arch                                          │
-│      /  \           ─────────────────────────────────────               │
-│     /\   \          OS: Arch Linux x86_64                               │
-│    /      \         Host: [REDACTED]                                    │
-│   /   ,,   \        Kernel: 6.9.4-arch1-1                               │
-│  /   |  |  -\       Uptime: Since before you existed                    │
-│ /_-''    ''-_\      Packages: 1847 (pacman), 12 (flatpak), 3 (snap)    │
-│                   Shell: zsh 5.9                                        │
-│                   Resolution: 3840x2160                                 │
-│                   DE: Hyprland (Wayland)                                │
-│                   WM: Hyprland                                          │
-│                   WM Theme: Catppuccin Mocha                            │
-│                   Theme: Catppuccin Mocha                               │
-│                   Icons: Papirus-Dark                                    │
-│                   Terminal: kitty                                       │
-│                   Terminal Font: JetBrainsMono Nerd Font                │
-│                   CPU: [REDACTED] @ 5.4GHz                              │
-│                   GPU: [REDACTED]                                       │
-│                   Memory: ∞MiB / ∞MiB                                   │
-│                   Disk: ∞G / ∞G (∞%)                                   │
-│                   Locale: en_US.UTF-8                                   │
-│                                                                         │
-│                   ████████████████████████████████████████               │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<br>
 
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: STATUS BADGES -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-GHOST_MODE-ff0055?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0a0a0a" alt="Ghost"/>
-<img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793d1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0a0a0a" alt="Arch"/>
-<img src="https://img.shields.io/badge/ROLE-UNDEFINED-00ff88?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0a0a0a" alt="Role"/>
-<img src="https://img.shields.io/badge/THREAT_LEVEL-UNKNOWN-ff6600?style=for-the-badge&logo=shield&logoColor=white&labelColor=0a0a0a" alt="Threat"/>
-<img src="https://img.shields.io/badge/LOCATION-REDACTED-333333?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0a0a0a" alt="Location"/>
-<img src="https://img.shields.io/badge/SLEEP-NONEXISTENT-9900ff?style=for-the-badge&logo=moon&logoColor=white&labelColor=0a0a0a" alt="Sleep"/>
-<img src="https://img.shields.io/badge/COFFEE-CRITICAL-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0a0a0a" alt="Coffee"/>
-<img src="https://img.shields.io/badge/SANITY-0.001%25-ff0000?style=for-the-badge&logo=brain&logoColor=white&labelColor=0a0a0a" alt="Sanity"/>
-<img src="https://img.shields.io/badge/PARANOIA-MAXIMUM-ff0055?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0a0a" alt="Paranoia"/>
-<img src="https://img.shields.io/badge/IDENTITY-ENCRYPTED-00ff88?style=for-the-badge&logo=lock&logoColor=white&labelColor=0a0a0a" alt="Encrypted"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: COUNTERS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/sayan9168">
-  <img src="https://komarev.com/ghpvc/?username=sayan9168&label=YOU+FOUND+ME&color=ff0055&style=for-the-badge&labelColor=0a0a0a" alt="Views"/>
-</a>
-<a href="https://github.com/sayan9168">
-  <img src="https://img.shields.io/github/followers/sayan9168?style=for-the-badge&logo=github&label=OBSERVERS&color=7c3aed&labelColor=0a0a0a" alt="Followers"/>
-</a>
-<a href="https://github.com/sayan9168?tab=repositories">
-  <img src="https://img.shields.io/github/stars/sayan9168?style=for-the-badge&logo=github&label=STARS&color=00d2ff&labelColor=0a0a0a" alt="Stars"/>
-</a>
-<a href="https://github.com/sayan9168?tab=repositories">
-  <img src="https://img.shields.io/github/repo-size/sayan9168/sayan9168?style=for-the-badge&logo=github&label=REPO+SIZE&color=00ff88&labelColor=0a0a0a" alt="Size"/>
-</a>
-<img src="https://img.shields.io/github/last-commit/sayan9168/sayan9168?style=for-the-badge&logo=github&label=LAST+SEEN&color=ff6600&labelColor=0a0a0a" alt="Last Commit"/>
-<img src="https://img.shields.io/github/languages/count/sayan9168/sayan9168?style=for-the-badge&logo=github&label=LANGUAGES&color=7c3aed&labelColor=0a0a0a" alt="Langs"/>
-<img src="https://img.shields.io/github/issues/sayan9168/sayan9168?style=for-the-badge&logo=github&label=ISSUES&color=ff0055&labelColor=0a0a0a" alt="Issues"/>
-<img src="https://img.shields.io/github/issues-pr/sayan9168/sayan9168?style=for-the-badge&logo=github&label=PRS&color=00d2ff&labelColor=0a0a0a" alt="PRs"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayan9168&count_bg=%23FF0055&title_bg=%230A0A0A&icon=ghost.svg&icon_color=%2300FF88&title=TOTAL+HITS&edge_flat=true" alt="Hits"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0d1117,1a2332,58a6ff&height=80&section=header&reversal=false" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: ABOUT (PYTHON CLASS) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> `cat /dev/null`
-
-<div align="center">
-<table>
-<tr>
-<td>
+## 🧬 About Me
 
 ```python
 #!/usr/bin/env python3
-# WARNING: Reading this file may cause existential crisis.
-# AUTHORIZATION LEVEL: ABOVE YOURS
-# CLEARANCE: NONE
-# ACCESS: DENIED (but you're reading anyway, aren't you?)
+"""Sayan Mahata — System Architect & Security Researcher"""
 
-import os, sys, hashlib, signal, socket, struct
-import subprocess, threading, multiprocessing
-from cryptography.fernet import Fernet
-from cryptography.hazmat.primitives import hashes
-from cryptography.hazmat.primitives.asymmetric import ed25519
-from typing import Union, Optional, Never, Any, Callable
-from dataclasses import dataclass, field
-from enum import Enum, auto
-from abc import ABC, abstractmethod
-from pathlib import Path
-from datetime import datetime, timedelta
-import json, yaml, toml, configparser
-import asyncio, aiohttp, websockets
-import numpy as np, pandas as pd
-import torch, tensorflow as tf
+class SayanMahata:
+    def __init__(self):
+        self.name = "Sayan Mahata"
+        self.role = "System Architect & Security Researcher"
+        self.organization = "Sayanox Private Limited"
+        self.position = "Founder & Lead Engineer"
+        self.location = "India 🇮🇳"
+        self.email = "sm6881164@gmail.com"
+        self.linkedin = "linkedin.com/in/sayan-mahata-a8b321391"
+        self.instagram = "@_sayyyyan"
 
-class ThreatLevel(Enum):
-    UNKNOWN = auto()
-    UNDEFINED = auto()
-    UNMEASURABLE = auto()
-    BEYOND_CLASSIFICATION = auto()
+        self.focus_areas = [
+            "Custom Programming Language Design (Compilers, VMs, Type Systems)",
+            "AI-Native Security & Autonomous Penetration Testing",
+            "Kernel Research, Reverse Engineering & Exploit Development",
+            "OSINT, Threat Intelligence & Digital Forensics",
+            "Blockchain, Cryptography & Decentralized Systems",
+            "Full-Stack Development & Cloud Architecture",
+        ]
 
-class Role(Enum):
-    HACKER = "maybe"
-    DEVELOPER = "perhaps"
-    RESEARCHER = "possibly"
-    ARCHITECT = "conceivably"
-    GHOST = "probably"
-    ALL = "definitely"
-    NONE = "..."
-    ARCH_USER = "btw"
-
-@dataclass
-class Entity:
-    """
-    You cannot classify what refuses to be classified.
-    I am not a hacker. I am not a developer.
-    I am not a researcher. I am not an architect.
-    I am not a ghost. I am not real.
-    I am all of them. I am none of them.
-    I use Arch, btw.
-    """
-    _identity: bytes = b"ENCRYPTED"
-    _role: None = None
-    _os: str = "Arch Linux"
-    _kernel: str = "6.9.4-arch1-1"
-    _shell: str = "zsh"
-    _wm: str = "Hyprland"
-    _editor: str = "neovim"
-    _terminal: str = "kitty"
-    _font: str = "JetBrainsMono Nerd Font"
-    _theme: str = "Catppuccin Mocha"
-    _icons: str = "Papirus-Dark"
-    _coffee_level: str = "critical"
-    _sleep_schedule: str = "nonexistent"
-    _sanity: float = 0.001
-    _paranoia: int = 100
-    _arch_flex_count: int = 999999
-    _threat_level: ThreatLevel = ThreatLevel.BEYOND_CLASSIFICATION
-    
-    @property
-    def whoami(self) -> Never:
-        raise PermissionError(
-            "Nice try. Identity is not a property "
-            "you can access. It's not even a property "
-            "I can access. Nobody can. That's the point."
-        )
-    
-    @property
-    def what_do_i_do(self) -> str:
-        return hashlib.sha256(
-            b"everything and nothing simultaneously"
-        ).hexdigest()
-    
-    @property
     def certifications(self) -> list:
         return [
             "Cisco Certified Ethical Hacker (CEH)",
             "AWS AI Cloud Practitioner",
-            "IBM Prompt Engineering",
-            "IBM Data Analysis with Python",
-            "Amazon Prompt Engineering",
-            "Cisco Packet Tracer Expert",
-            "Python Certified Professional"
         ]
-    
-    @property
-    def current_operations(self) -> list:
+
+    def current_mission(self) -> str:
+        return "Building Falcon — a next-gen systems programming language from scratch"
+
+    def philosophy(self) -> str:
+        return "Security is not a feature. It is the foundation."
+
+    def open_to(self) -> list:
         return [
-            "Advanced Penetration Testing (or is it?)",
-            "AI/ML Security Research (or is it?)",
-            "Reverse Engineering (or is it?)",
-            "Cloud Architecture (or is it?)",
-            "Malware Analysis (or is it?)",
-            "Zero-Trust Design (or is it?)",
-            "Something you'll never know (definitely)"
+            "Security Research Collaborations",
+            "Systems Programming Roles",
+            "Open Source Contributions",
+            "Consulting & Advisory",
+            "Speaking Engagements",
         ]
-    
-    @property
-    def arch_packages(self) -> int:
-        return 1847  # and counting
-    
-    @property
-    def uptime(self) -> str:
-        return "Since before you existed"
-    
-    def hack(self, target: str) -> None:
-        """Or do I build? You'll never know."""
-        pass
-    
-    def build(self, project: str) -> None:
-        """Or do I destroy? You'll never know."""
-        pass
-    
-    def research(self, topic: str) -> None:
-        """Or do I obfuscate? You'll never know."""
-        pass
-    
-    def flex(self) -> str:
-        return "I use Arch, btw."
-    
-    def __repr__(self):
-        return "<Entity: [REDACTED] | Arch User | ???>"
-    
-    def __str__(self):
-        return "I use Arch, btw. The rest is classified."
-    
-    def __del__(self):
-        os.system("shred -vfz -n 7 /var/log/*")
-        os.system("history -c && history -w")
-        os.system("sync && echo 3 > /proc/sys/vm/drop_caches")
 
 if __name__ == "__main__":
-    e = Entity()
-    try:
-        print(e.whoami)
-    except PermissionError as ex:
-        print(f"[ACCESS DENIED] {ex}")
-    print(e)
-    print(f"[HASH] {e.what_do_i_do}")
-    print(f"[THREAT] {e._threat_level}")
-    print(f"[FLEX] {e.flex()}")
-    sys.exit(0)
+    me = SayanMahata()
+    print(f"🔐 {me.name} | {me.role}")
+    print(f"🏢 {me.position} @ {me.organization}")
+    print(f"📧 {me.email}")
+    print(f"💡 {me.philosophy()}")
 ```
+
+---
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+
+| 🏗️ Architecture | 🛡️ Security | 🤖 AI/ML | 🌐 Full-Stack |
+|:---:|:---:|:---:|:---:|
+| Designed 3+ custom languages | Autonomous pentest engines | Neural network-driven attacks | Next.js + Three.js apps |
+| Built blockchain from scratch | Zero-knowledge crypto systems | AI-powered threat detection | Cloud-native deployments |
+| Kernel-level systems | OSINT & forensics platforms | ML model optimization | API design & microservices |
+
+</div>
+
+---
+
+## 🛠️ Complete Tech Arsenal
+
+### 🔤 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=flat-square&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Falcon](https://img.shields.io/badge/Falcon-Custom%20Language-FF6B35?style=flat-square&logo=falcon&logoColor=white)
+![AuraCode](https://img.shields.io/badge/AuraCode-Custom%20DSL-9B59B6?style=flat-square&logo=code&logoColor=white)
+
+### 🏗️ Frameworks & Libraries
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### 🛡️ Security & Research
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8EBE?style=flat-square&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-00A4EF?style=flat-square&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6B35?style=flat-square&logo=ida&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=flat-square&logo=john&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=flat-square&logo=hashcat&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+### ☁️ Cloud, DevOps & AI
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-47A546?style=flat-square&logo=neo4j&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦅 FalconCore
+**Custom Systems Programming Language**
+
+A from-scratch programming language featuring a custom lexer, parser, compiler, virtual machine, and static type system. Designed for performance-critical security tooling with zero-cost abstractions.
+
+`Compiler Design` `VM` `Type System` `LLVM` `Rust` `C`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/FalconCore?style=social)](https://github.com/sayan9168/FalconCore)
+[![Forks](https://img.shields.io/github/forks/sayan9168/FalconCore?style=social)](https://github.com/sayan9168/FalconCore)
+
+</td>
+<td width="50%">
+
+### 🧠 NeuralPentest-v5
+**AI-Native Penetration Testing Engine**
+
+Autonomous pentest framework powered by deep neural networks. Performs multi-stage reconnaissance, vulnerability exploitation, privilege escalation, and automated reporting with minimal human intervention.
+
+`Deep Learning` `Security` `Automation` `Python` `PyTorch`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/NeuralPentest-v5?style=social)](https://github.com/sayan9168/NeuralPentest-v5)
+[![Forks](https://img.shields.io/github/forks/sayan9168/NeuralPentest-v5?style=social)](https://github.com/sayan9168/NeuralPentest-v5)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 NexusOSINT
+**Open Source Intelligence Platform**
+
+Enterprise-grade OSINT framework for digital footprint analysis, social media enumeration, dark web monitoring, and real-time threat intelligence aggregation across 50+ data sources.
+
+`OSINT` `Threat Intel` `APIs` `Python` `Go` `Elasticsearch`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/nexus-osint?style=social)](https://github.com/sayan9168/nexus-osint)
+[![Forks](https://img.shields.io/github/forks/sayan9168/nexus-osint?style=social)](https://github.com/sayan9168/nexus-osint)
+
+</td>
+<td width="50%">
+
+### 🔐 AOX-SecureVault
+**Zero-Knowledge Encrypted Storage**
+
+Military-grade encrypted vault implementing zero-knowledge proof architecture. AES-256-GCM client-side encryption ensures data sovereignty. Features secure key derivation via Argon2id.
+
+`Cryptography` `Zero-Knowledge` `AES-256` `Argon2id` `Rust`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/aox-securevault?style=social)](https://github.com/sayan9168/aox-securevault)
+[![Forks](https://img.shields.io/github/forks/sayan9168/aox-securevault?style=social)](https://github.com/sayan9168/aox-securevault)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⛓️ SayanoxChain
+**Decentralized Blockchain Framework**
+
+High-performance blockchain with custom BFT consensus mechanism, EVM-compatible smart contracts, P2P gossip networking, and Merkle Patricia Trie state storage.
+
+`Blockchain` `Consensus` `P2P` `Smart Contracts` `Rust` `Go`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/sayanox-chain?style=social)](https://github.com/sayan9168/sayanox-chain)
+[![Forks](https://img.shields.io/github/forks/sayan9168/sayanox-chain?style=social)](https://github.com/sayan9168/sayanox-chain)
+
+</td>
+<td width="50%">
+
+### 🎨 AuraCode
+**Visual Programming Environment**
+
+Node-based visual programming IDE with real-time 3D rendering for rapid prototyping of security workflows, data pipelines, and automation orchestration.
+
+`Visual Programming` `IDE` `Next.js` `Three.js` `TypeScript`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/AuraCode?style=social)](https://github.com/sayan9168/AuraCode)
+[![Forks](https://img.shields.io/github/forks/sayan9168/AuraCode?style=social)](https://github.com/sayan9168/AuraCode)
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: /proc/self/status -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> `cat /proc/sayan/status`
 
 <div align="center">
 
-```
-Name:           sayan
-Umask:          0077 (You can't read my files)
-State:          S (sleeping) — or am I?
-Tgid:           1337
-Ngid:           0
-Pid:            31337
-PPid:           1 (init — I have no parent)
-TracerPid:      0 (Nobody is tracing me)
-Uid:            0  0  0  0 (root in all namespaces)
-Gid:            0  0  0  0
-FDSize:         1024
-Groups:         0 (wheel) 98 (power) 998 (wheel)
-VmPeak:         ∞ kB
-VmSize:         ∞ kB
-VmRSS:          [REDACTED] kB
-VmData:         [REDACTED] kB
-VmStk:          [REDACTED] kB
-VmExe:          [REDACTED] kB
-VmLib:          [REDACTED] kB
-VmPTE:          [REDACTED] kB
-VmSwap:         0 kB (I never swap)
-Threads:        42 (one for each answer to everything)
-SigQ:           0/∞
-SigPnd:         0000000000000000
-SigBlk:         ffffffffffffffff (ALL signals blocked)
-SigIgn:         ffffffffffffffff (I ignore everything)
-SigCgt:         0000000000000000 (I catch nothing)
-CapInh:         000001ffffffffff
-CapPrm:         000001ffffffffff
-CapEff:         000001ffffffffff (FULL CAPABILITIES)
-CapBnd:         000001ffffffffff
-CapAmb:         0000000000000000
-Seccomp:        2 (filtered — you can't syscall me)
-Seccomp_filters: 1
-Speculation_Store_Bypass: thread vulnerable
-Cpus_allowed:   ffffffff (all cores, all the time)
-Cpus_allowed_list: 0-∞
-Mems_allowed:   00000000,00000001
-Mems_allowed_list: 0
-voluntary_ctxt_switches:    0 (I never yield)
-nonvoluntary_ctxt_switches: 0 (I am never preempted)
-```
+**[→ View All 30+ Repositories](https://github.com/sayan9168?tab=repositories)**
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: CERTIFICATIONS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> `ls -la /certifications/`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-```
-drwx------  7 sayan sayan 4096 Jul 22 03:14 .
-drwxr-xr-x  3 root  root  4096 Jan  1 00:00 ..
--rw-------  1 sayan sayan 2048 Cisco_CEH.pem
--rw-------  1 sayan sayan 1024 AWS_AI_Cloud.pem
--rw-------  1 sayan sayan 1536 IBM_Prompt_Eng.pem
--rw-------  1 sayan sayan 1280 IBM_Data_Python.pem
--rw-------  1 sayan sayan 1024 Amazon_Prompt.pem
--rw-------  1 sayan sayan  768 Cisco_PacketTracer.pem
--rw-------  1 sayan sayan  512 Python_Cert.pem
-total: 7 credentials | classification: ABOVE YOUR PAY GRADE
-```
+<img src="https://github-readme-stats.vercel.app/api?username=sayan9168&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan9168&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12" alt="Top Languages" width="40%"/>
 
-</div>
+<br><br>
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/CISCO-CEH_CERTIFIED-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0a0a0a" alt="CEH"/><br><br>
-<b>Certified Ethical Hacker</b><br>
-<i>Cisco Networking Academy</i>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AWS-AI_CLOUD_PRACTITIONER-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0a0a" alt="AWS"/><br><br>
-<b>AI Cloud Practitioner</b><br>
-<i>Amazon Web Services</i>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/IBM-PROMPT_ENGINEERING-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0a0a" alt="IBM"/><br><br>
-<b>Prompt Engineering</b><br>
-<i>IBM Skills Network</i>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/IBM-DATA_ANALYSIS_PYTHON-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0a0a" alt="IBM2"/><br><br>
-<b>Data Analysis w/ Python</b><br>
-<i>IBM Skills Network</i>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AMAZON-PROMPT_ENGINEERING-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0a0a0a" alt="Amazon"/><br><br>
-<b>Prompt Engineering</b><br>
-<i>Amazon</i>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/CISCO-PACKET_TRACER_EXPERT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0a0a0a" alt="PT"/><br><br>
-<b>Packet Tracer Expert</b><br>
-<i>Cisco Networking Academy</i>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/PYTHON-CERTIFIED_PROFESSIONAL-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a" alt="Python"/><br><br>
-<b>Python Certified</b><br>
-<i>Professional Level</i>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/ARCH-LINUX_POWER_USER-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0a0a0a" alt="Arch"/><br><br>
-<b>Arch Linux Power User</b><br>
-<i>Self-Certified (the only cert that matters)</i>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/COFFEE-CONSUMPTION_EXPERT-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0a0a0a" alt="Coffee"/><br><br>
-<b>Coffee Consumption Expert</b><br>
-<i>Level: ∞</i>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan9168&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" alt="Streak" width="70%"/>
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: SKILLS (ALL CATEGORIES UNDEFINED) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+## 📈 Contribution Activity
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1j8e2b/giphy.gif" width="30"/> `find / -name "skills" 2>/dev/null`
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayan9168&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a2332)](https://github.com/sayan9168)
+
+---
+
+## 🏢 Organization
 
 <div align="center">
 
-> ⚠️ **WARNING:** The following list does not define a role.
-> A hammer is not a carpenter. A knife is not a chef.
-> A keyboard is not a hacker. A compiler is not a developer.
-> A terminal is not a sysadmin. A cloud is not an architect.
-> These are merely tools. What I build, break, or become
-> with them is none of your concern.
+### 🏛️ Sayanox Private Limited
+
+*Building the next generation of secure infrastructure, programming languages, and AI-driven security systems.*
+
+<br>
+
+`Security Engineering` `AI/ML` `Compiler Design` `Blockchain` `Cloud Architecture` `Threat Intelligence`
+
+<br>
+
+**Role:** Founder & Lead Engineer
 
 </div>
 
+---
+
+## 📜 Certifications & Credentials
+
 <div align="center">
-<table>
-<tr>
-<th>🔮 Category: UNDEFINED</th>
-<th>🔮 Category: UNDEFINED</th>
-<th>🔮 Category: UNDEFINED</th>
-</tr>
-<tr>
-<td align="center">
 
-**Languages (or weapons?)**
+| 🎓 Certification | 🏛️ Issuer | 🔑 Focus |
+|:---|:---|:---|
+| Certified Ethical Hacker (CEH) | Cisco | Penetration Testing, Network Security |
+| AI Cloud Practitioner | AWS | Cloud AI/ML, Infrastructure |
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt=""/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
+</div>
+
+---
+
+## 💼 Open to Opportunities
+
+<div align="center">
+
+### ✅ Currently Available For:
+
+| Opportunity | Details |
+|:---|:---|
+| 🔒 Security Research Roles | Pentesting, Red Teaming, Vulnerability Research |
+| 🏗️ Systems Engineering | Compiler Development, OS/Kernel Work |
+| 🤖 AI/ML Security | Adversarial ML, AI Safety, Threat Detection |
+| 🌐 Full-Stack Development | Cloud-Native Apps, Security-First Architecture |
+| 📝 Consulting & Advisory | Security Audits, Architecture Reviews |
+| 🎤 Speaking & Writing | Conferences, Workshops, Technical Content |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### I'm always excited to discuss security research, language design, collaborative projects, or any interesting technical challenge.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-mahata-a8b321391)
+[![Gmail](https://img.shields.io/badge/Gmail-sm6881164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sm6881164@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-_sayyyyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sayyyyan)
+[![GitHub](https://img.shields.io/badge/GitHub-sayan9168-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayan9168)
+
+<br>
+
+### 📧 For business inquiries: sm6881164@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+> *"The best defense is understanding the offense. The best offense is building something they can't break."*
+
+<br>
+
+**© 2026 Sayan Mahata · Sayanox Private Limited · All Rights Reserved**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:58a6ff,1a2332,0d1117&height=80&section=footer&reversal=false" width="100%"/>
+
+</div>
