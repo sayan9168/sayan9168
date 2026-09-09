@@ -1,6 +1,0 @@
-[
-  {"name":"Sayanox Chain","category":"Blockchain","language":"Go","description":"A blockchain and distributed-systems project.","repo":"sayan9168/sayanox-chain"},
-  {"name":"SayanCloud","category":"Cloud / Systems","language":"Go","description":"Container and deployment platform architecture.","repo":"sayan9168/SayanCloud"},
-  {"name":"Sayanox Language","category":"Programming Languages","language":"Rust","description":"Experimental language and runtime research.","repo":"sayan9168/sayanox-language"},
-  {"name":"Sayanox Store","category":"Web Platform","language":"TypeScript","description":"An open-source software discovery and distribution concept.","repo":"sayan9168/Sayanox-Store"}
-]
