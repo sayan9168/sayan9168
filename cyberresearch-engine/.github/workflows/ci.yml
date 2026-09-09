@@ -1,0 +1,25 @@
+name: CyberResearch Engine CI
+
+on:
+  push:
+    paths: ['cyberresearch-engine/**']
+  pull_request:
+    paths: ['cyberresearch-engine/**']
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: cyberresearch-engine
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install test tooling
+        run: python -m pip install --upgrade pip pytest
+      - name: Run tests
+        run: pytest -q
+      - name: Compile package
+        run: python -m compileall cyberresearch_engine
