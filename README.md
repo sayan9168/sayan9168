@@ -180,6 +180,16 @@ Build and run the native example from the repository root:
 
 <sub>Project orbit is a visual index—not a popularity, performance, or activity chart.</sub>
 
+### 🎌 A salute to curious builders
+
+<div align="center">
+
+<img src="./assets/anime-salute.svg" alt="Original 3D-inspired anime shinobi with golden spiky hair and an orange jacket, giving a friendly salute to the viewer." width="100%" />
+
+<sub>Original anime-inspired shinobi artwork—not an official Naruto image or live 3D scene.</sub>
+
+</div>
+
 </div>
 
 <div align="center">
