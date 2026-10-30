@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sayan Mahata — Systems Architect and Security Researcher</title>
+  <desc id="desc">A dark, futuristic profile banner with a glowing isometric 3D cube, circuit traces, and a luminous blue-violet horizon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="100" y1="0" x2="1050" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#080D18"/><stop offset=".52" stop-color="#0A1222"/><stop offset="1" stop-color="#11102B"/></linearGradient>
+    <linearGradient id="edge" x1="720" y1="100" x2="1040" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#8AF7FF"/><stop offset=".48" stop-color="#42A5FF"/><stop offset="1" stop-color="#B77AFF"/></linearGradient>
+    <linearGradient id="faceA" x1="795" y1="124" x2="960" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#153B5B"/><stop offset="1" stop-color="#0C1A34"/></linearGradient>
+    <linearGradient id="faceB" x1="932" y1="203" x2="1010" y2="339" gradientUnits="userSpaceOnUse"><stop stop-color="#25366C"/><stop offset="1" stop-color="#171A43"/></linearGradient>
+    <linearGradient id="faceC" x1="790" y1="250" x2="936" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#102B48"/><stop offset="1" stop-color="#10152E"/></linearGradient>
+    <linearGradient id="titleGrad" x1="80" y1="150" x2="650" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#F5FBFF"/><stop offset=".62" stop-color="#B8E9FF"/><stop offset="1" stop-color="#A8A4FF"/></linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(275 0 0 180 900 245)" gradientUnits="userSpaceOnUse"><stop stop-color="#287DFF" stop-opacity=".26"/><stop offset="1" stop-color="#7556FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0v36" stroke="#91B8FF" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <filter id="glow" x="650" y="32" width="500" height="430" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <rect width="1200" height="480" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="480" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="480" rx="26" fill="url(#aura)"/>
+  <path d="M26 390h420l55-55h98M26 407h265l22-22h120M1174 72H1038l-24 24h-82M1174 91h-76l-20 20h-66" stroke="#4ECFFF" stroke-opacity=".19" stroke-width="1.4"/>
+  <path d="M55 62h120M55 70h70M1080 402h65M1104 410h41" stroke="#8FAFFF" stroke-opacity=".32" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="450" cy="335" r="3" fill="#66E8FF"/><circle cx="312" cy="385" r="2" fill="#8B7DFF"/><circle cx="1014" cy="96" r="3" fill="#7CEBFF"/>
+  <g opacity=".32" stroke="#6693E8" stroke-width="1"><path d="M676 64v352M690 64v352M1059 64v352M1073 64v352"/><path d="M650 82h472M650 98h472M650 382h472M650 398h472"/></g>
+  <text x="78" y="102" fill="#72E6FF" font-family="monospace" font-size="13" letter-spacing="4">INDEPENDENT BUILDER  /  WEST BENGAL, INDIA</text>
+  <path d="M78 122h348" stroke="#4BCFFF" stroke-opacity=".55"/>
+  <text x="72" y="211" fill="url(#titleGrad)" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="1">SAYAN MAHATA</text>
+  <text x="80" y="254" fill="#C4D2E8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2.3">SYSTEMS ARCHITECT  ·  SECURITY RESEARCHER</text>
+  <text x="80" y="304" fill="#899AB7" font-family="Arial, Helvetica, sans-serif" font-size="16">Designing compilers, exploring systems, building secure-by-design tools.</text>
+  <g transform="translate(80 350)">
+    <rect width="170" height="36" rx="18" fill="#12243A" stroke="#2F7D9A" stroke-opacity=".7"/>
+    <circle cx="19" cy="18" r="4" fill="#63E5FF"/><text x="32" y="23" fill="#C6F5FF" font-family="monospace" font-size="12" letter-spacing="1.2">LANGUAGE DESIGN</text>
+    <rect x="181" width="139" height="36" rx="18" fill="#171A38" stroke="#6557A9" stroke-opacity=".7"/>
+    <circle cx="200" cy="18" r="4" fill="#A99AFF"/><text x="213" y="23" fill="#E0D9FF" font-family="monospace" font-size="12" letter-spacing="1.2">SECURITY R&amp;D</text>
+  </g>
+  <!-- soft bloom behind the low-poly, isometric systems core -->
+  <g filter="url(#glow)" opacity=".72"><path d="m895 103 136 79v158l-136 79-136-79V182l136-79Z" fill="#347DFF"/></g>
+  <g opacity=".22" filter="url(#soft)"><path d="m895 112 130 75v150l-130 75-130-75V187l130-75Z" stroke="#55DBFF" stroke-width="12"/></g>
+  <g stroke="url(#edge)" stroke-width="2.4" stroke-linejoin="round">
+    <path d="m895 106 132 76v152l-132 76-132-76V182l132-76Z" fill="#0A1428" fill-opacity=".82"/>
+    <path d="m895 106 132 76-132 76-132-76 132-76Z" fill="url(#faceA)"/>
+    <path d="M763 182v152l132 76V258l-132-76Z" fill="url(#faceC)"/>
+    <path d="M1027 182v152l-132 76V258l132-76Z" fill="url(#faceB)"/>
+  </g>
+  <g stroke="#A0F5FF" stroke-opacity=".72" stroke-width="1.5">
+    <path d="m895 137 86 50-86 50-86-50 86-50Z"/>
+    <path d="m895 160 46 27-46 27-46-27 46-27Z"/>
+    <path d="M895 137v50m0 0v50M809 187l86 50 86-50M763 212l132 76 132-76M763 242l132 76 132-76M763 273l132 76 132-76" opacity=".34"/>
+  </g>
+  <path d="m895 175 22 12-22 13-22-13 22-12Z" fill="#9BFAFF"/><path d="m895 175 22 12-22 13v-25Z" fill="#66B8FF"/>
+  <circle cx="895" cy="187" r="8" fill="#A3F5FF" opacity=".38" filter="url(#soft)"/>
+  <g fill="#76EFFF"><circle cx="895" cy="106" r="3.5"/><circle cx="1027" cy="182" r="3.5"/><circle cx="895" cy="410" r="3.5"/><circle cx="763" cy="182" r="3.5"/></g>
+  <text x="895" y="445" text-anchor="middle" fill="#8296BD" font-family="monospace" font-size="11" letter-spacing="3">IDEAS → SYSTEMS → IMPACT</text>
+  <path d="M26 1h1148a25 25 0 0 1 25 25v428a25 25 0 0 1-25 25H26a25 25 0 0 1-25-25V26A25 25 0 0 1 26 1Z" stroke="#83C7FF" stroke-opacity=".2" stroke-width="2"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sayan Mahata's systems and security research map</title>
+  <desc id="desc">Four connected research domains—language and compilers, systems engineering, security research, and intelligence tools—around a central build-and-learn loop.</desc>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="20" x2="1110" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#09111F"/><stop offset="1" stop-color="#10152D"/></linearGradient>
+    <linearGradient id="stroke" x1="184" y1="82" x2="1014" y2="315" gradientUnits="userSpaceOnUse"><stop stop-color="#55E5FF"/><stop offset=".5" stop-color="#688EFF"/><stop offset="1" stop-color="#BF7CFF"/></linearGradient>
+    <radialGradient id="center" cx="0" cy="0" r="1" gradientTransform="matrix(0 110 -130 0 600 198)" gradientUnits="userSpaceOnUse"><stop stop-color="#193961"/><stop offset="1" stop-color="#11172B"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0v30" stroke="#A2BFFF" stroke-opacity=".055"/></pattern>
+    <filter id="glow" x="380" y="30" width="440" height="330" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="388" rx="24" fill="url(#bg)" stroke="#789BFF" stroke-opacity=".22" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="386" rx="23" fill="url(#grid)"/>
+  <text x="42" y="47" fill="#66E3FF" font-family="monospace" font-size="12" letter-spacing="3">RESEARCH CONSTELLATION  /  HOW THE PIECES CONNECT</text>
+  <path d="M600 190 285 126M600 190 915 126M600 208 285 278M600 208 915 278" stroke="url(#stroke)" stroke-opacity=".55" stroke-width="2" stroke-dasharray="5 8"/>
+  <g fill="#64DFFF"><circle cx="440" cy="158" r="3"/><circle cx="760" cy="158" r="3"/><circle cx="440" cy="242" r="3"/><circle cx="760" cy="242" r="3"/></g>
+  <circle cx="600" cy="198" r="94" fill="#577FFF" fill-opacity=".18" filter="url(#glow)"/>
+  <path d="M600 102 682 150v96l-82 48-82-48v-96l82-48Z" fill="url(#center)" stroke="url(#stroke)" stroke-width="2"/>
+  <path d="m600 125 61 35v72l-61 35-61-35v-72l61-35Z" stroke="#80DFFF" stroke-opacity=".42"/>
+  <text x="600" y="190" text-anchor="middle" fill="#F0FAFF" font-family="Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="1">BUILD</text>
+  <text x="600" y="214" text-anchor="middle" fill="#91A9CA" font-family="monospace" font-size="11" letter-spacing="2">→ LEARN →</text>
+  <g>
+    <rect x="62" y="83" width="330" height="86" rx="14" fill="#0D1C2C" stroke="#4ADFF5" stroke-opacity=".5"/>
+    <circle cx="96" cy="117" r="15" fill="#12364A" stroke="#55DFF5"/><path d="m89 117 7-7 7 7-7 7-7-7Zm7-7v14" stroke="#A2F6FF" stroke-width="1.3"/>
+    <text x="125" y="116" fill="#E5FAFF" font-family="Arial, sans-serif" font-weight="700" font-size="16">LANGUAGES &amp; COMPILERS</text>
+    <text x="125" y="141" fill="#91A8C2" font-family="monospace" font-size="11">Sayanox · bootstrap · native AOT</text>
+  </g>
+  <g>
+    <rect x="808" y="83" width="330" height="86" rx="14" fill="#11182E" stroke="#8F83FF" stroke-opacity=".5"/>
+    <circle cx="842" cy="117" r="15" fill="#28234C" stroke="#A89AFF"/><path d="M842 106v22m-8-14h16m-14 9h12" stroke="#D7D0FF" stroke-width="1.4"/>
+    <text x="871" y="116" fill="#F1EDFF" font-family="Arial, sans-serif" font-weight="700" font-size="16">SYSTEMS ENGINEERING</text>
+    <text x="871" y="141" fill="#9D9AB7" font-family="monospace" font-size="11">Kernels · reverse engineering · AOT</text>
+  </g>
+  <g>
+    <rect x="62" y="235" width="330" height="86" rx="14" fill="#101A2D" stroke="#4A9DFF" stroke-opacity=".55"/>
+    <circle cx="96" cy="269" r="15" fill="#153054" stroke="#69B4FF"/><path d="M96 258 106 262v8c0 7-10 12-10 12s-10-5-10-12v-8l10-4Z" stroke="#B3D9FF" stroke-width="1.4"/>
+    <text x="125" y="268" fill="#E5F2FF" font-family="Arial, sans-serif" font-weight="700" font-size="16">SECURITY RESEARCH</text>
+    <text x="125" y="293" fill="#91A8C2" font-family="monospace" font-size="11">AI security · kernel · forensics</text>
+  </g>
+  <g>
+    <rect x="808" y="235" width="330" height="86" rx="14" fill="#17162E" stroke="#B174FF" stroke-opacity=".5"/>
+    <circle cx="842" cy="269" r="15" fill="#34254D" stroke="#C08AFF"/><circle cx="842" cy="269" r="3" fill="#E3C1FF"/><circle cx="834" cy="263" r="2" fill="#E3C1FF"/><circle cx="850" cy="263" r="2" fill="#E3C1FF"/><circle cx="835" cy="277" r="2" fill="#E3C1FF"/><circle cx="849" cy="277" r="2" fill="#E3C1FF"/><path d="m842 269-8-6m8 6 8-6m-8 6-7 8m7-8 7 8" stroke="#E3C1FF"/>
+    <text x="871" y="268" fill="#F8EEFF" font-family="Arial, sans-serif" font-weight="700" font-size="16">INTELLIGENCE TOOLS</text>
+    <text x="871" y="293" fill="#A99AB9" font-family="monospace" font-size="11">Nexus OSINT · graphs · threat intel</text>
+  </g>
+  <text x="600" y="363" text-anchor="middle" fill="#8294B3" font-family="monospace" font-size="11" letter-spacing="2">ONE CURIOSITY · MANY LAYERS · SECURITY BY DESIGN</text>
+</svg>
