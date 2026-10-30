@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Three-dimensional engineering and research stack</title>
+  <desc id="desc">An isometric stack showing four connected disciplines: application and cloud engineering, security research, systems engineering, and languages and compilers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="48" y1="0" x2="968" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#091221"/><stop offset=".52" stop-color="#0D1730"/><stop offset="1" stop-color="#17142B"/></linearGradient>
+    <linearGradient id="top1" x1="300" y1="80" x2="700" y2="175" gradientUnits="userSpaceOnUse"><stop stop-color="#234C75"/><stop offset=".53" stop-color="#263A70"/><stop offset="1" stop-color="#4B3474"/></linearGradient>
+    <linearGradient id="top2" x1="300" y1="145" x2="700" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#144A62"/><stop offset=".53" stop-color="#234274"/><stop offset="1" stop-color="#45326E"/></linearGradient>
+    <linearGradient id="top3" x1="300" y1="210" x2="700" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#163C5A"/><stop offset=".53" stop-color="#263D68"/><stop offset="1" stop-color="#512E68"/></linearGradient>
+    <linearGradient id="top4" x1="300" y1="275" x2="700" y2="370" gradientUnits="userSpaceOnUse"><stop stop-color="#174057"/><stop offset=".53" stop-color="#253858"/><stop offset="1" stop-color="#4C315E"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#9EBDFF" stroke-opacity=".05"/></pattern>
+    <filter id="shadow" x="175" y="30" width="650" height="390" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect x="1" y="1" width="998" height="428" rx="24" fill="url(#bg)" stroke="#789BFF" stroke-opacity=".23" stroke-width="2"/><rect x="2" y="2" width="996" height="426" rx="23" fill="url(#grid)"/>
+  <text x="36" y="42" fill="#8CEAFF" font-family="monospace" font-size="11" letter-spacing="3">ENGINEERING STACK  /  FROM LOW-LEVEL TO SHIPPED</text>
+  <ellipse cx="504" cy="356" rx="282" ry="45" fill="#507BFF" fill-opacity=".2" filter="url(#shadow)"/>
+  <!-- Floating isometric slabs, each has top, left and right depth faces. -->
+  <g stroke-linejoin="round" stroke-width="1.5">
+    <path d="m500 67 197 55-197 73-197-73 197-55Z" fill="url(#top1)" stroke="#A987FF"/><path d="M303 122v24l197 65v-16L303 122Z" fill="#20274F" stroke="#758BFF"/><path d="M697 122v24l-197 65v-16l197-73Z" fill="#38265E" stroke="#B17DFF"/>
+    <path d="m500 132 197 55-197 73-197-73 197-55Z" fill="url(#top2)" stroke="#7D9FFF"/><path d="M303 187v24l197 65v-16l-197-73Z" fill="#182B4B" stroke="#5EAFFD"/><path d="M697 187v24l-197 65v-16l197-73Z" fill="#302550" stroke="#9B82FF"/>
+    <path d="m500 197 197 55-197 73-197-73 197-55Z" fill="url(#top3)" stroke="#65C9F5"/><path d="M303 252v24l197 65v-16l-197-73Z" fill="#152D46" stroke="#5AC6E9"/><path d="M697 252v24l-197 65v-16l197-73Z" fill="#352346" stroke="#A77AE3"/>
+    <path d="m500 262 197 55-197 73-197-73 197-55Z" fill="url(#top4)" stroke="#55E0D4"/><path d="M303 317v20l197 65v-12l-197-73Z" fill="#143643" stroke="#50CBBF"/><path d="M697 317v20l-197 65v-12l197-73Z" fill="#2D2543" stroke="#9D70C5"/>
+  </g>
+  <!-- Layer titles and concise examples -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="500" y="111" text-anchor="middle" fill="#F3EFFF" font-weight="700" font-size="16">PRODUCT &amp; CLOUD ENGINEERING</text><text x="500" y="130" text-anchor="middle" fill="#C5B8E4" font-family="monospace" font-size="10">APIs · FULL-STACK · CLOUD ARCHITECTURE</text>
+    <text x="500" y="176" text-anchor="middle" fill="#E9F2FF" font-weight="700" font-size="16">SECURITY RESEARCH</text><text x="500" y="195" text-anchor="middle" fill="#B5C8E2" font-family="monospace" font-size="10">AI SECURITY · OSINT · FORENSICS</text>
+    <text x="500" y="241" text-anchor="middle" fill="#E6FAFF" font-weight="700" font-size="16">SYSTEMS ENGINEERING</text><text x="500" y="260" text-anchor="middle" fill="#AED1E1" font-family="monospace" font-size="10">KERNELS · REVERSE ENGINEERING · NATIVE CODE</text>
+    <text x="500" y="306" text-anchor="middle" fill="#E5FFFC" font-weight="700" font-size="16">LANGUAGES &amp; COMPILERS</text><text x="500" y="325" text-anchor="middle" fill="#A8D9D3" font-family="monospace" font-size="10">SAYANOX · SELF-HOSTING · AOT</text>
+  </g>
+  <g fill="#8BEAFF"><circle cx="303" cy="122" r="3"/><circle cx="697" cy="122" r="3"/><circle cx="303" cy="187" r="3"/><circle cx="697" cy="187" r="3"/><circle cx="303" cy="252" r="3"/><circle cx="697" cy="252" r="3"/></g>
+  <text x="500" y="415" text-anchor="middle" fill="#8598B7" font-family="monospace" font-size="10" letter-spacing="2">A CROSS-DISCIPLINARY VIEW OF MY WORK</text>
+</svg>
