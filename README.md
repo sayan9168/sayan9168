@@ -15,10 +15,15 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sayyyyan)
 [![Email](https://img.shields.io/badge/EMAIL-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sm6881164@gmail.com)
 
+<br />
+
+[ABOUT](#about) &nbsp; · &nbsp; [PROJECTS](#projects) &nbsp; · &nbsp; [3D VISUALS](#visual-gallery) &nbsp; · &nbsp; [SKILLS](#skills) &nbsp; · &nbsp; [GITHUB ACTIVITY](#github-activity) &nbsp; · &nbsp; [CONTACT](#contact)
+
 </div>
 
 ---
 
+<a id="about"></a>
 ## `whoami` · A little about me
 
 I'm **Sayan Mahata** — also known as **Sayan The Researcher** — a systems architect and security researcher from **Medinipur, West Bengal, India**. I founded **Sayanox Private Limited** and created **Sayanox**, an original systems programming language with a self-hosting compiler.
@@ -26,6 +31,23 @@ I'm **Sayan Mahata** — also known as **Sayan The Researcher** — a systems ar
 My work lives where low-level systems, security, and ambitious ideas meet. I like understanding how things work all the way down, then building something useful from that understanding.
 
 > **My guiding principle:** Security is not a feature. It is the foundation.
+
+### 🔎 Recruiter quick view
+
+Open to conversations about **systems and compiler engineering**, **security research / product security**, and **AI- or OSINT-enabled tools**. I value roles where I can investigate deeply, build end-to-end, and keep security in the design—not bolt it on later.
+
+| Role conversation | Project evidence |
+|:---|:---|
+| **Systems / compiler engineering** | [Sayanox](https://github.com/sayan9168/sayanox) — original `.sa` language, self-hosting compiler, bootstrap, native x86-64 AOT |
+| **Security research / engineering** | [Kernel-X-Unlocker](https://github.com/sayan9168/Kernel-X-Unlocker) — educational Android kernel security research |
+| **OSINT / intelligence tooling** | [Nexus OSINT](https://github.com/sayan9168/nexus-osint) — AI-native OSINT and 3D link-analysis platform |
+
+<div align="center">
+
+[![Discuss an opportunity](https://img.shields.io/badge/RECRUITERS-Discuss_an_opportunity-29A87D?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sm6881164@gmail.com?subject=Opportunity%20for%20Sayan%20Mahata)
+[![View professional profile](https://img.shields.io/badge/PROFESSIONAL_PROFILE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-mahata-a8b321391)
+
+</div>
 
 <details>
 <summary><b>⚡ Current focus &amp; working principles</b></summary>
@@ -41,6 +63,7 @@ My work lives where low-level systems, security, and ambitious ideas meet. I lik
 
 ---
 
+<a id="projects"></a>
 ## ✦ Selected builds & research
 
 <table>
@@ -54,7 +77,12 @@ A `.sa` language with a self-hosting compiler, native x86-64 AOT, offline packag
 
 `LANGUAGE DESIGN` `COMPILERS` `NATIVE AOT`
 
+[![Stars](https://img.shields.io/github/stars/sayan9168/sayanox?style=flat-square&label=stars)](https://github.com/sayan9168/sayanox/stargazers) [![Last commit](https://img.shields.io/github/last-commit/sayan9168/sayanox?style=flat-square&label=updated)](https://github.com/sayan9168/sayanox/commits)
+
 [![Explore Sayanox](https://img.shields.io/badge/EXPLORE-Repository-15243a?style=for-the-badge&logo=github)](https://github.com/sayan9168/sayanox)
+
+[![Sayanox CI](https://github.com/sayan9168/sayanox/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sayan9168/sayanox/actions/workflows/ci.yml)
+[![Full bootstrap](https://github.com/sayan9168/sayanox/actions/workflows/full-bootstrap.yml/badge.svg?branch=main)](https://github.com/sayan9168/sayanox/actions/workflows/full-bootstrap.yml)
 
 </td>
 <td width="50%" valign="top">
@@ -65,6 +93,8 @@ A `.sa` language with a self-hosting compiler, native x86-64 AOT, offline packag
 A platform for connecting open-source intelligence and visualizing relationships as an interactive graph.
 
 `OSINT` `THREAT INTEL` `3D VISUALIZATION`
+
+[![Stars](https://img.shields.io/github/stars/sayan9168/nexus-osint?style=flat-square&label=stars)](https://github.com/sayan9168/nexus-osint/stargazers) [![Last commit](https://img.shields.io/github/last-commit/sayan9168/nexus-osint?style=flat-square&label=updated)](https://github.com/sayan9168/nexus-osint/commits)
 
 [![Explore Nexus OSINT](https://img.shields.io/badge/EXPLORE-Repository-15243a?style=for-the-badge&logo=github)](https://github.com/sayan9168/nexus-osint)
 
@@ -80,6 +110,8 @@ Original research on universal thermal gradients and deep-space analysis, with a
 
 `RESEARCH` `PHYSICS` `PYTHON`
 
+[![Stars](https://img.shields.io/github/stars/sayan9168/Sayan-Universal-Gradient-Theory?style=flat-square&label=stars)](https://github.com/sayan9168/Sayan-Universal-Gradient-Theory/stargazers) [![Last commit](https://img.shields.io/github/last-commit/sayan9168/Sayan-Universal-Gradient-Theory?style=flat-square&label=updated)](https://github.com/sayan9168/Sayan-Universal-Gradient-Theory/commits)
+
 [![Explore SUGT](https://img.shields.io/badge/EXPLORE-Repository-15243a?style=for-the-badge&logo=github)](https://github.com/sayan9168/Sayan-Universal-Gradient-Theory)
 
 </td>
@@ -92,11 +124,63 @@ An educational research tool for Android file-based encryption and screen-lock a
 
 `ANDROID` `KERNEL` `SECURITY RESEARCH`
 
+[![Stars](https://img.shields.io/github/stars/sayan9168/Kernel-X-Unlocker?style=flat-square&label=stars)](https://github.com/sayan9168/Kernel-X-Unlocker/stargazers) [![Last commit](https://img.shields.io/github/last-commit/sayan9168/Kernel-X-Unlocker?style=flat-square&label=updated)](https://github.com/sayan9168/Kernel-X-Unlocker/commits)
+
 [![Explore Kernel-X-Unlocker](https://img.shields.io/badge/EXPLORE-Repository-15243a?style=for-the-badge&logo=github)](https://github.com/sayan9168/Kernel-X-Unlocker)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>⌨️ Peek at Sayanox syntax &amp; native build command</b></summary>
+<br />
+
+A real, minimal example from the language repository:
+
+```sayanox
+hold name = "Sayanox"
+show "Hello"
+show name
+```
+
+Build and run the native example from the repository root:
+
+```sh
+./sx target native
+./selfhost/native_aot examples/hello.sa hello
+./hello
+```
+
+[Browse the examples](https://github.com/sayan9168/sayanox/tree/main/examples) · [Read the full project documentation](https://github.com/sayan9168/sayanox#readme)
+
+</details>
+
+<a id="visual-gallery"></a>
+### 🧊 3D visualization gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/intel-network-3d.svg" alt="Isometric concept view of an OSINT entity graph with people, domains, infrastructure, events, and signals connected to an analysis hub." width="100%" />
+</td>
+<td width="50%" valign="top">
+<img src="./assets/engineering-stack-3d.svg" alt="Isometric engineering stack linking product and cloud engineering, security research, systems engineering, and compiler design." width="100%" />
+</td>
+</tr>
+</table>
+
+<sub>Original concept artwork: the network is illustrative, not live intelligence data; the stack is a map of engineering domains, not a product architecture diagram.</sub>
+
+<br /><br />
+
+<img src="./assets/project-universe.svg" alt="An isometric orbital map of Sayanox, Nexus OSINT, Universal Gradient Theory, and Kernel-X around a central builder hub." width="100%" />
+
+<sub>Project orbit is a visual index—not a popularity, performance, or activity chart.</sub>
+
+</div>
 
 <div align="center">
 
@@ -136,6 +220,7 @@ The language project brings together a seed-to-gen2 bootstrap, self-hosting comp
 
 ---
 
+<a id="skills"></a>
 ## ⌘ Tools of the trade
 
 <div align="center">
@@ -170,6 +255,7 @@ The language project brings together a seed-to-gen2 bootstrap, self-hosting comp
 
 ---
 
+<a id="github-activity"></a>
 ## ◈ GitHub signal
 
 <div align="center">
@@ -207,6 +293,7 @@ This profile repository includes a GitHub Actions workflow that refreshes the co
 
 ---
 
+<a id="contact"></a>
 ## ◉ Beyond the code
 
 <div align="center">

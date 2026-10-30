@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sayan Mahata's project universe</title>
+  <desc id="desc">A stylized three-dimensional orbital map placing Sayanox, Nexus OSINT, Universal Gradient Theory, and Kernel-X-Unlocker around a central builder hub.</desc>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="0" x2="1130" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#07121E"/><stop offset=".5" stop-color="#0D1730"/><stop offset="1" stop-color="#1A1231"/></linearGradient>
+    <linearGradient id="orbit" x1="179" y1="167" x2="1037" y2="319" gradientUnits="userSpaceOnUse"><stop stop-color="#54E7EA"/><stop offset=".5" stop-color="#648BFF"/><stop offset="1" stop-color="#D080FF"/></linearGradient>
+    <linearGradient id="core" x1="525" y1="148" x2="700" y2="307" gradientUnits="userSpaceOnUse"><stop stop-color="#215B83"/><stop offset=".5" stop-color="#243B75"/><stop offset="1" stop-color="#4B2D6E"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" stroke="#9CC3FF" stroke-opacity=".055"/></pattern>
+    <filter id="glow" x="250" y="62" width="700" height="330" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="20"/></filter>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="458" rx="25" fill="url(#bg)" stroke="#78A8FF" stroke-opacity=".23" stroke-width="2"/><rect x="2" y="2" width="1196" height="456" rx="24" fill="url(#grid)"/>
+  <text x="38" y="43" fill="#79E7F2" font-family="monospace" font-size="12" letter-spacing="3">PROJECT UNIVERSE  /  INDEPENDENT BUILDS &amp; RESEARCH</text>
+  <!-- perspective orbital plane -->
+  <ellipse cx="600" cy="246" rx="440" ry="145" transform="rotate(-10 600 246)" stroke="url(#orbit)" stroke-opacity=".22" stroke-width="1.5"/>
+  <ellipse cx="600" cy="246" rx="346" ry="113" transform="rotate(19 600 246)" stroke="url(#orbit)" stroke-opacity=".32" stroke-width="1.8"/>
+  <ellipse cx="600" cy="246" rx="245" ry="83" transform="rotate(-22 600 246)" stroke="url(#orbit)" stroke-opacity=".2" stroke-width="1.3" stroke-dasharray="5 8"/>
+  <ellipse cx="600" cy="246" rx="445" ry="148" transform="rotate(-10 600 246)" stroke="#6086F2" stroke-opacity=".08" stroke-width="14" filter="url(#soft)"/>
+  <!-- connect each project orbit to the central maker core -->
+  <g stroke="url(#orbit)" stroke-width="1.6" stroke-opacity=".55" stroke-dasharray="4 7"><path d="m600 230-324-99m324 99 318-99m-318 99-327 106m327-106 330 106"/></g>
+  <g fill="#A8F6FF"><circle cx="428" cy="177" r="3"/><circle cx="743" cy="172" r="3"/><circle cx="424" cy="270" r="3"/><circle cx="772" cy="271" r="3"/></g>
+  <!-- center hub, floating above the orbital plane -->
+  <circle cx="600" cy="230" r="92" fill="#467EFF" fill-opacity=".24" filter="url(#glow)"/>
+  <path d="m600 139 80 46v91l-80 46-80-46v-91l80-46Z" fill="url(#core)" stroke="#9CEEFF" stroke-width="2"/>
+  <path d="m600 158 63 36v73l-63 36-63-36v-73l63-36Z" stroke="#A6DFFF" stroke-opacity=".4"/>
+  <path d="m600 187 37 21v43l-37 22-37-22v-43l37-21Z" fill="#18334E" stroke="#8AF4FF" stroke-width="1.5"/>
+  <text x="600" y="225" text-anchor="middle" fill="#E9FCFF" font-family="monospace" font-weight="700" font-size="13">BUILD</text>
+  <text x="600" y="245" text-anchor="middle" fill="#BDD6EF" font-family="monospace" font-size="9" letter-spacing="1.5">WITH PURPOSE</text>
+  <!-- project nodes: raised, faceted planets -->
+  <g><ellipse cx="276" cy="127" rx="100" ry="21" fill="#0A2837"/><path d="m276 77 84 29v41l-84 30-84-30v-41l84-29Z" fill="#123A4A" stroke="#59E9E2" stroke-width="1.8"/><path d="m276 77 84 29-84 30-84-30 84-29Z" fill="#205766" stroke="#81FFF0"/><text x="276" y="115" text-anchor="middle" fill="#E5FFFB" font-family="Arial,sans-serif" font-weight="700" font-size="15">SAYANOX</text><text x="276" y="132" text-anchor="middle" fill="#A6E2DC" font-family="monospace" font-size="9">LANGUAGE · COMPILER</text></g>
+  <g><ellipse cx="924" cy="127" rx="105" ry="21" fill="#111C3D"/><path d="m924 77 88 29v41l-88 30-88-30v-41l88-29Z" fill="#1A2951" stroke="#7DA6FF" stroke-width="1.8"/><path d="m924 77 88 29-88 30-88-30 88-29Z" fill="#2C3F71" stroke="#A2C5FF"/><text x="924" y="115" text-anchor="middle" fill="#F0F5FF" font-family="Arial,sans-serif" font-weight="700" font-size="15">NEXUS OSINT</text><text x="924" y="132" text-anchor="middle" fill="#BCCCF0" font-family="monospace" font-size="9">INTELLIGENCE · GRAPHS</text></g>
+  <g><ellipse cx="273" cy="329" rx="103" ry="21" fill="#201733"/><path d="m273 279 88 29v41l-88 30-88-30v-41l88-29Z" fill="#392750" stroke="#D492FF" stroke-width="1.8"/><path d="m273 279 88 29-88 30-88-30 88-29Z" fill="#573A70" stroke="#E7B1FF"/><text x="273" y="317" text-anchor="middle" fill="#FFF3FF" font-family="Arial,sans-serif" font-weight="700" font-size="13">UNIVERSAL GRADIENT</text><text x="273" y="334" text-anchor="middle" fill="#D9BDE8" font-family="monospace" font-size="9">THEORY · RESEARCH</text></g>
+  <g><ellipse cx="927" cy="329" rx="105" ry="21" fill="#231B31"/><path d="m927 279 89 29v41l-89 30-89-30v-41l89-29Z" fill="#3C2B47" stroke="#FFB47E" stroke-width="1.8"/><path d="m927 279 89 29-89 30-89-30 89-29Z" fill="#604151" stroke="#FFD19C"/><text x="927" y="317" text-anchor="middle" fill="#FFF6EA" font-family="Arial,sans-serif" font-weight="700" font-size="14">KERNEL-X</text><text x="927" y="334" text-anchor="middle" fill="#E8CAB1" font-family="monospace" font-size="9">ANDROID · SECURITY R&amp;D</text></g>
+  <g fill="#94F2FF"><circle cx="276" cy="77" r="3"/><circle cx="924" cy="77" r="3"/><circle cx="273" cy="279" r="3"/><circle cx="927" cy="279" r="3"/></g>
+  <text x="600" y="425" text-anchor="middle" fill="#899DBA" font-family="monospace" font-size="10" letter-spacing="2">ONE BUILDER · FOUR DIFFERENT QUESTIONS · CONTINUOUS LEARNING</text>
+</svg>
