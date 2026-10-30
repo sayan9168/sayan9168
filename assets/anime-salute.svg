@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">An original anime-inspired shinobi salutes the viewer</title>
+  <desc id="desc">A polished, dimensional anime-style illustration of an original blond-haired shinobi in orange and charcoal, giving a friendly salute beneath cyan and violet rim light. The character is not from an existing series.</desc>
+  <defs>
+    <linearGradient id="bg" x1="28" y1="14" x2="1134" y2="669" gradientUnits="userSpaceOnUse"><stop stop-color="#070D19"/><stop offset=".53" stop-color="#0D1730"/><stop offset="1" stop-color="#211536"/></linearGradient>
+    <radialGradient id="nebula" cx="0" cy="0" r="1" gradientTransform="matrix(370 27 -37 286 875 306)" gradientUnits="userSpaceOnUse"><stop stop-color="#276AB4" stop-opacity=".47"/><stop offset=".63" stop-color="#7155BD" stop-opacity=".17"/><stop offset="1" stop-color="#7155BD" stop-opacity="0"/></radialGradient>
+    <linearGradient id="hair" x1="759" y1="84" x2="939" y2="269" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF3A5"/><stop offset=".35" stop-color="#FFC845"/><stop offset=".76" stop-color="#F39827"/><stop offset="1" stop-color="#B95D22"/></linearGradient>
+    <linearGradient id="skin" x1="754" y1="159" x2="954" y2="359" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE6CA"/><stop offset=".42" stop-color="#EFB58F"/><stop offset=".78" stop-color="#C87965"/><stop offset="1" stop-color="#8B4B53"/></linearGradient>
+    <linearGradient id="band" x1="769" y1="156" x2="940" y2="201" gradientUnits="userSpaceOnUse"><stop stop-color="#253650"/><stop offset=".5" stop-color="#B7C8D4"/><stop offset=".72" stop-color="#6E859A"/><stop offset="1" stop-color="#26364C"/></linearGradient>
+    <linearGradient id="jacket" x1="719" y1="370" x2="1037" y2="676" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B37"/><stop offset=".42" stop-color="#E85F2E"/><stop offset="1" stop-color="#8E3440"/></linearGradient>
+    <linearGradient id="darkCloth" x1="695" y1="403" x2="1015" y2="648" gradientUnits="userSpaceOnUse"><stop stop-color="#273650"/><stop offset=".5" stop-color="#131F35"/><stop offset="1" stop-color="#101326"/></linearGradient>
+    <linearGradient id="metal" x1="807" y1="146" x2="887" y2="182" gradientUnits="userSpaceOnUse"><stop stop-color="#D6F7FF"/><stop offset=".42" stop-color="#758AA3"/><stop offset=".72" stop-color="#D7E6EE"/><stop offset="1" stop-color="#51647D"/></linearGradient>
+    <linearGradient id="hand" x1="808" y1="193" x2="921" y2="315" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE7CE"/><stop offset=".62" stop-color="#E5A782"/><stop offset="1" stop-color="#B96762"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0v36" stroke="#A7C5FF" stroke-opacity=".045"/></pattern>
+    <filter id="glow" x="625" y="29" width="566" height="622" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="shadow" x="651" y="65" width="514" height="614" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="17"/></filter>
+    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="678" rx="27" fill="url(#bg)" stroke="#83B9FF" stroke-opacity=".25" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="676" rx="26" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="676" rx="26" fill="url(#nebula)"/>
+  <path d="M2 519h490l35-35h85M1198 109h-129l-28 28h-67" stroke="#57D8F2" stroke-opacity=".25" stroke-width="1.5"/>
+  <path d="M46 65h110M46 74h65M1083 613h70" stroke="#8FB7EE" stroke-opacity=".31" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="486" cy="521" r="3" fill="#67EAF4"/><circle cx="1080" cy="138" r="3" fill="#67EAF4"/>
+  <g fill="#C1D8FF" opacity=".7"><circle cx="612" cy="112" r="1.5"/><circle cx="1082" cy="235" r="1.7"/><circle cx="596" cy="416" r="1.3"/><circle cx="1133" cy="483" r="1.6"/><circle cx="677" cy="583" r="1.4"/><circle cx="1030" cy="73" r="1.2"/></g>
+  <!-- Profile copy panel -->
+  <text x="74" y="121" fill="#7DEBFF" font-family="monospace" font-size="13" letter-spacing="3.6">A LITTLE ANIME ENERGY</text>
+  <path d="M75 143h230" stroke="#59DDF4" stroke-opacity=".64"/>
+  <text x="70" y="230" fill="#F0F6FF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" letter-spacing=".8">SALUTE TO</text>
+  <text x="70" y="282" fill="#B8DFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" letter-spacing=".8">THE BUILDERS</text>
+  <text x="74" y="335" fill="#9BAEC9" font-family="Arial, Helvetica, sans-serif" font-size="17">For the curious minds who keep</text>
+  <text x="74" y="360" fill="#9BAEC9" font-family="Arial, Helvetica, sans-serif" font-size="17">learning, creating, and making</text>
+  <text x="74" y="385" fill="#9BAEC9" font-family="Arial, Helvetica, sans-serif" font-size="17">the impossible feel inevitable.</text>
+  <rect x="74" y="432" width="232" height="39" rx="19.5" fill="#101E35" stroke="#59CFE7" stroke-opacity=".55"/>
+  <circle cx="96" cy="451.5" r="4.5" fill="#73F1F4"/>
+  <text x="112" y="456" fill="#C9F9FF" font-family="monospace" font-size="12" letter-spacing="1.5">CURIOSITY  /  COURAGE</text>
+  <text x="75" y="622" fill="#7287A5" font-family="monospace" font-size="10" letter-spacing="2">ORIGINAL SHINOBI CHARACTER · GITHUB PROFILE ART</text>
+  <!-- Glow and cast shadow behind character -->
+  <ellipse cx="898" cy="602" rx="238" ry="34" fill="#358AFF" fill-opacity=".32" filter="url(#glow)"/>
+  <ellipse cx="906" cy="626" rx="176" ry="26" fill="#050916" opacity=".88" filter="url(#shadow)"/>
+  <path d="M733 411c-46 23-79 70-97 166h457c-21-88-67-144-134-171l-82-22-144 27Z" fill="url(#darkCloth)" stroke="#527295" stroke-opacity=".64" stroke-width="2"/>
+  <!-- rear collar and shoulder shapes -->
+  <path d="m758 393 83 50-40 87-85-76 42-61Zm182-8 69 50-48 82-78-68 57-64Z" fill="#19263C" stroke="#5D7A96" stroke-width="2"/>
+  <!-- torso, bright jacket with sculpted folds -->
+  <path d="M781 405c-48 14-99 49-128 107l-26 65 104 0 36-91 41 91h211l-26-82c-19-53-62-81-118-96l-94 43-0-37Z" fill="url(#jacket)" stroke="#FFB16B" stroke-opacity=".73" stroke-width="2.5"/>
+  <path d="m781 405 61 51-25 55-44-54 8-52Zm163-8-56 58 26 54 54-63-24-49Z" fill="#FFAA53" fill-opacity=".5"/>
+  <path d="m842 447 48 32 42-37-13 130h-81l4-125Z" fill="url(#darkCloth)" stroke="#96A8BD" stroke-opacity=".5" stroke-width="2"/>
+  <path d="m836 466 53 19 46-25M847 499l42 14 40-12M847 541h80" stroke="#B5C6D8" stroke-opacity=".25" stroke-width="2"/>
+  <!-- neck -->
+  <path d="M816 353v71c0 29 24 49 58 49s59-20 59-49v-76l-117 5Z" fill="url(#skin)" stroke="#B66D69" stroke-width="2"/>
+  <path d="M816 385c21 28 72 37 117 7l-1 43c-21 35-85 35-116-2v-48Z" fill="#A75A58" fill-opacity=".56"/>
+  <!-- ears and face -->
+  <ellipse cx="758" cy="258" rx="27" ry="42" fill="url(#skin)" stroke="#C77E72" stroke-width="2"/>
+  <ellipse cx="946" cy="253" rx="27" ry="42" fill="url(#skin)" stroke="#C77E72" stroke-width="2"/>
+  <path d="M774 178c13-42 54-67 100-66 48 1 88 27 98 75l-11 122c-7 56-48 92-100 93-53 1-97-38-104-94l-8-130Z" fill="url(#skin)" stroke="#FFD8B7" stroke-opacity=".74" stroke-width="2.5"/>
+  <path d="M793 304c21 35 47 53 79 55 37 2 70-19 88-56-10 47-47 81-98 82-43-2-72-30-81-81Z" fill="#A9545D" fill-opacity=".35"/>
+  <path d="M778 269c10 8 19 8 27 0m131-1c8 8 18 8 27 0" stroke="#A96564" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+  <!-- brows and expressive anime eyes -->
+  <path d="M795 235c18-15 43-16 62-4m44-4c19-13 43-12 59 2" stroke="#573A42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M798 256c16-18 44-19 61-1-14 20-44 22-61 1Zm99-1c17-19 45-18 61 1-17 20-46 19-61-1Z" fill="#FFF5EA" stroke="#8C5158" stroke-width="2"/>
+  <ellipse cx="831" cy="256" rx="9" ry="14" fill="#1C6BB4"/><ellipse cx="927" cy="256" rx="9" ry="14" fill="#1C6BB4"/>
+  <ellipse cx="833" cy="259" rx="4" ry="8" fill="#111B2A"/><ellipse cx="929" cy="259" rx="4" ry="8" fill="#111B2A"/>
+  <circle cx="835" cy="252" r="3.5" fill="white"/><circle cx="931" cy="252" r="3.5" fill="white"/>
+  <path d="M877 259c-4 18-11 34-7 40 4 4 11 4 16 0" stroke="#B36F69" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M850 324c17 13 40 14 58 0" stroke="#8B454E" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M860 327c12 5 26 5 38-1" stroke="#FFF0DF" stroke-width="2" stroke-linecap="round"/>
+  <!-- high, spiky, original golden hair silhouette -->
+  <path d="M758 229 718 168l61 20-15-93 79 55 10-108 57 86 62-62-8 105 65-31-37 89-58-23-59-4-69 12-48 28Z" fill="url(#hair)" stroke="#FFE48A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m739 168 42 20-17-73m79 35 10-84 28 82m29-20 59-53-12 84m31 20 46-20-24 68" stroke="#FFF0A2" stroke-opacity=".68" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- plain, unmarked metal forehead protector -->
+  <path d="M765 167c51-27 124-29 184-2l-8 47c-57-22-119-22-169 4l-7-49Z" fill="#222D42" stroke="#52657A" stroke-width="2"/>
+  <path d="M771 168c51-24 121-25 172-2l-5 31c-56-17-110-18-162 4l-5-33Z" fill="url(#band)" stroke="#E2F7FF" stroke-opacity=".55" stroke-width="1.5"/>
+  <path d="M832 158c16-3 35-3 50 0l-2 29c-15-2-30-2-45 2l-3-31Z" fill="url(#metal)" stroke="#E8F5F8" stroke-width="1.4"/>
+  <path d="m855 165 8 8-8 8-8-8 8-8Z" fill="#586E83" stroke="#ECFBFF" stroke-width="1.5"/>
+  <!-- raised sleeve and forearm connecting to the salute -->
+  <path d="M958 422c30-23 56-58 59-95l-50-31c-21 37-45 56-79 71l70 55Z" fill="url(#jacket)" stroke="#FFB36E" stroke-width="2.5"/>
+  <path d="m967 302 48 29-20 38-55-34 27-33Z" fill="#18243A" stroke="#8293A8" stroke-width="2"/>
+  <path d="M966 304c-25-20-42-42-60-65l-32-34c-8-8-18-3-16 6l18 30-32-29c-9-8-18-1-12 9l27 35-33-24c-9-7-17 3-10 11l34 34-24-13c-10-5-17 5-8 13l47 39c20 17 47 26 77 30l24-42Z" fill="url(#hand)" stroke="#FFE0C4" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="m858 215 30 27m-42-6 30 26m-38 0 24 20" stroke="#B36D65" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M906 265c8 17 18 28 33 37" stroke="#FFEEDB" stroke-opacity=".58" stroke-width="3" stroke-linecap="round"/>
+  <!-- luminous edge accents and frame -->
+  <path d="M698 339c-16 43-25 91-28 144m321-117c18 35 32 73 41 111" stroke="#5DE5F3" stroke-opacity=".75" stroke-width="3" filter="url(#smallGlow)"/>
+  <circle cx="987" cy="155" r="3" fill="#A4F4FF"/><circle cx="651" cy="449" r="2.5" fill="#C497FF"/><circle cx="1122" cy="367" r="2" fill="#76E3FF"/>
+  <path d="M27 1h1146a26 26 0 0 1 26 26v626a26 26 0 0 1-26 26H27a26 26 0 0 1-26-26V27A26 26 0 0 1 27 1Z" stroke="#8CCBFF" stroke-opacity=".19" stroke-width="2"/>
+</svg>
