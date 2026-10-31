@@ -1,36 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Sayanox compiler bootstrap and output pipeline</title>
-  <desc id="desc">A visual journey from Sayanox source through seed and self-hosted compiler generations to native x86-64 output, with offline packages and a growing standard library.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sayanox seed-to-gen3 compiler and native AOT pipeline</title>
+  <desc id="desc">A six-stage isometric visualization: Sayanox source, seed compiler, gen1, gen2, gen3, and native x86-64 AOT output.</desc>
   <defs>
-    <linearGradient id="bg" x1="50" y1="0" x2="1150" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#08121F"/><stop offset="1" stop-color="#15132F"/></linearGradient>
-    <linearGradient id="edge" x1="118" y1="110" x2="1080" y2="198" gradientUnits="userSpaceOnUse"><stop stop-color="#5CE8F4"/><stop offset=".48" stop-color="#638CFF"/><stop offset="1" stop-color="#C078FF"/></linearGradient>
-    <linearGradient id="tile" x1="130" y1="88" x2="220" y2="204" gradientUnits="userSpaceOnUse"><stop stop-color="#153852"/><stop offset="1" stop-color="#10192D"/></linearGradient>
+    <linearGradient id="bg" x1="50" y1="0" x2="1150" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#08121F"/><stop offset="1" stop-color="#15132F"/></linearGradient>
+    <linearGradient id="link" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#53E7E7"/><stop offset=".55" stop-color="#599BFF"/><stop offset="1" stop-color="#C47BFF"/></linearGradient>
+    <linearGradient id="top" x1="48" y1="94" x2="177" y2="156" gradientUnits="userSpaceOnUse"><stop stop-color="#1B4B61"/><stop offset="1" stop-color="#2A3065"/></linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#A8BFFF" stroke-opacity=".045"/></pattern>
-    <filter id="glow" x="0" y="40" width="1200" height="200" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="glow" x="0" y="52" width="1200" height="190" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="shadow" x="-40%" y="-30%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
   </defs>
-  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#7C9AFF" stroke-opacity=".23" stroke-width="2"/><rect x="2" y="2" width="1196" height="296" rx="21" fill="url(#grid)"/>
-  <text x="38" y="43" fill="#70E8FF" font-family="monospace" font-size="12" letter-spacing="3">SAYANOX  /  THE BOOTSTRAP JOURNEY</text>
-  <path d="M155 153H1045" stroke="url(#edge)" stroke-opacity=".28" stroke-width="15" filter="url(#glow)"/><path d="M155 153H1045" stroke="url(#edge)" stroke-width="2" stroke-dasharray="7 8"/>
-  <g>
-    <path d="m160 82 76 38v75l-76 39-76-39v-75l76-38Z" fill="url(#tile)" stroke="#57DFF4" stroke-width="1.6"/><path d="m160 99 58 29v59l-58 29-58-29v-59l58-29Z" stroke="#70E8FF" stroke-opacity=".35"/>
-    <text x="160" y="150" text-anchor="middle" fill="#E9FBFF" font-family="monospace" font-size="18" font-weight="700">.sa</text><text x="160" y="172" text-anchor="middle" fill="#93B7CE" font-family="monospace" font-size="10">SOURCE</text>
-    <text x="160" y="260" text-anchor="middle" fill="#C4D6EC" font-family="Arial, sans-serif" font-size="14" font-weight="700">Sayanox code</text>
-  </g>
-  <g>
-    <path d="m455 82 76 38v75l-76 39-76-39v-75l76-38Z" fill="url(#tile)" stroke="#5BBFFF" stroke-width="1.6"/><path d="m455 99 58 29v59l-58 29-58-29v-59l58-29Z" stroke="#68B7FF" stroke-opacity=".4"/>
-    <path d="m455 125 23 14v28l-23 14-23-14v-28l23-14Z" stroke="#B7E9FF" stroke-width="1.5"/><text x="455" y="156" text-anchor="middle" fill="#D6F2FF" font-family="monospace" font-size="11">SEED</text>
-    <text x="455" y="260" text-anchor="middle" fill="#C4D6EC" font-family="Arial, sans-serif" font-size="14" font-weight="700">Bootstrap</text>
-  </g>
-  <g>
-    <path d="m750 82 76 38v75l-76 39-76-39v-75l76-38Z" fill="url(#tile)" stroke="#858EFF" stroke-width="1.6"/><path d="m750 99 58 29v59l-58 29-58-29v-59l58-29Z" stroke="#969AFF" stroke-opacity=".4"/>
-    <path d="m750 124 24 14v30l-24 14-24-14v-30l24-14Z" stroke="#D4D0FF" stroke-width="1.5"/><text x="750" y="156" text-anchor="middle" fill="#ECEAFF" font-family="monospace" font-size="11">GEN 2</text>
-    <text x="750" y="260" text-anchor="middle" fill="#D5D0F4" font-family="Arial, sans-serif" font-size="14" font-weight="700">Self-hosting compiler</text>
-  </g>
-  <g>
-    <path d="m1045 82 76 38v75l-76 39-76-39v-75l76-38Z" fill="#1C183B" stroke="#C07AFF" stroke-width="1.6"/><path d="m1045 99 58 29v59l-58 29-58-29v-59l58-29Z" stroke="#D18EFF" stroke-opacity=".4"/>
-    <text x="1045" y="148" text-anchor="middle" fill="#F4E9FF" font-family="monospace" font-size="15" font-weight="700">x86-64</text><text x="1045" y="169" text-anchor="middle" fill="#C1A6D7" font-family="monospace" font-size="10">NATIVE AOT</text>
-    <text x="1045" y="260" text-anchor="middle" fill="#E0D1F3" font-family="Arial, sans-serif" font-size="14" font-weight="700">Native output</text>
-  </g>
-  <g fill="#B4F4FF"><circle cx="307" cy="153" r="4"/><circle cx="602" cy="153" r="4"/><circle cx="897" cy="153" r="4"/></g>
-  <rect x="407" y="273" width="386" height="18" rx="9" fill="#171D34"/><text x="600" y="286" text-anchor="middle" fill="#94A8C7" font-family="monospace" font-size="9" letter-spacing="1.5">OFFLINE PACKAGES  ·  GROWING STANDARD LIBRARY</text>
+  <rect x="1" y="1" width="1198" height="358" rx="22" fill="url(#bg)" stroke="#7C9AFF" stroke-opacity=".23" stroke-width="2"/><rect x="2" y="2" width="1196" height="356" rx="21" fill="url(#grid)"/>
+  <text x="38" y="40" fill="#70E8FF" font-family="monospace" font-size="12" letter-spacing="3">SAYANOX  /  SEED-TO-SELF-HOSTING JOURNEY</text>
+  <path d="M96 159H1105" stroke="url(#link)" stroke-opacity=".3" stroke-width="15" filter="url(#glow)"/><path d="M96 159H1105" stroke="url(#link)" stroke-width="2.4" stroke-dasharray="6 7"/>
+  <!-- Stage 1: source -->
+  <g transform="translate(102 0)"><ellipse cx="0" cy="225" rx="63" ry="12" fill="#38B6C8" opacity=".28" filter="url(#shadow)"/><path d="m0 76 61 26v67l-61 29-61-29v-67l61-26Z" fill="url(#top)" stroke="#62E5EE" stroke-width="1.7"/><path d="m0 95 44 19v45L0 180l-44-21v-45L0 95Z" stroke="#A4F7FF" stroke-opacity=".47"/><text x="0" y="143" text-anchor="middle" fill="#ECFFFF" font-family="monospace" font-size="16" font-weight="700">.sa</text><text x="0" y="211" text-anchor="middle" fill="#C5D7E8" font-family="Arial,sans-serif" font-size="12" font-weight="700">SOURCE</text></g>
+  <!-- Stage 2: seed -->
+  <g transform="translate(301 0)"><ellipse cx="0" cy="225" rx="63" ry="12" fill="#348BC8" opacity=".27" filter="url(#shadow)"/><path d="m0 76 61 26v67l-61 29-61-29v-67l61-26Z" fill="#142D4A" stroke="#58B9FF" stroke-width="1.7"/><path d="m0 95 44 19v45L0 180l-44-21v-45L0 95Z" stroke="#9BD9FF" stroke-opacity=".48"/><text x="0" y="143" text-anchor="middle" fill="#EAF7FF" font-family="monospace" font-size="14" font-weight="700">SEED</text><text x="0" y="211" text-anchor="middle" fill="#C5D7E8" font-family="Arial,sans-serif" font-size="12" font-weight="700">BOOTSTRAP</text></g>
+  <!-- Stage 3: gen1 -->
+  <g transform="translate(500 0)"><ellipse cx="0" cy="225" rx="63" ry="12" fill="#3979CF" opacity=".26" filter="url(#shadow)"/><path d="m0 76 61 26v67l-61 29-61-29v-67l61-26Z" fill="#172A53" stroke="#638FFF" stroke-width="1.7"/><path d="m0 95 44 19v45L0 180l-44-21v-45L0 95Z" stroke="#AEC2FF" stroke-opacity=".48"/><text x="0" y="143" text-anchor="middle" fill="#F0F3FF" font-family="monospace" font-size="14" font-weight="700">GEN 1</text><text x="0" y="211" text-anchor="middle" fill="#C5D0E8" font-family="Arial,sans-serif" font-size="12" font-weight="700">COMPILER</text></g>
+  <!-- Stage 4: gen2 -->
+  <g transform="translate(699 0)"><ellipse cx="0" cy="225" rx="63" ry="12" fill="#555FCE" opacity=".26" filter="url(#shadow)"/><path d="m0 76 61 26v67l-61 29-61-29v-67l61-26Z" fill="#20264F" stroke="#898BFF" stroke-width="1.7"/><path d="m0 95 44 19v45L0 180l-44-21v-45L0 95Z" stroke="#C4C2FF" stroke-opacity=".48"/><text x="0" y="143" text-anchor="middle" fill="#F4F0FF" font-family="monospace" font-size="14" font-weight="700">GEN 2</text><text x="0" y="211" text-anchor="middle" fill="#D3CDE9" font-family="Arial,sans-serif" font-size="12" font-weight="700">SELF-HOST</text></g>
+  <!-- Stage 5: gen3 -->
+  <g transform="translate(898 0)"><ellipse cx="0" cy="225" rx="63" ry="12" fill="#855ACD" opacity=".27" filter="url(#shadow)"/><path d="m0 76 61 26v67l-61 29-61-29v-67l61-26Z" fill="#2C2251" stroke="#B277FF" stroke-width="1.7"/><path d="m0 95 44 19v45L0 180l-44-21v-45L0 95Z" stroke="#E0B5FF" stroke-opacity=".5"/><text x="0" y="143" text-anchor="middle" fill="#FFF0FF" font-family="monospace" font-size="14" font-weight="700">GEN 3</text><text x="0" y="211" text-anchor="middle" fill="#E1C6EB" font-family="Arial,sans-serif" font-size="12" font-weight="700">REPRODUCIBLE</text></g>
+  <!-- Stage 6: native -->
+  <g transform="translate(1097 0)"><ellipse cx="0" cy="225" rx="63" ry="12" fill="#AB59D5" opacity=".28" filter="url(#shadow)"/><path d="m0 76 61 26v67l-61 29-61-29v-67l61-26Z" fill="#35204D" stroke="#DD8CFF" stroke-width="1.7"/><path d="m0 95 44 19v45L0 180l-44-21v-45L0 95Z" stroke="#F1C1FF" stroke-opacity=".5"/><text x="0" y="141" text-anchor="middle" fill="#FFF3FF" font-family="monospace" font-size="12" font-weight="700">x86-64</text><text x="0" y="211" text-anchor="middle" fill="#E6C6F0" font-family="Arial,sans-serif" font-size="12" font-weight="700">NATIVE AOT</text></g>
+  <g fill="#C5F8FF"><circle cx="201" cy="159" r="4"/><circle cx="400" cy="159" r="4"/><circle cx="599" cy="159" r="4"/><circle cx="798" cy="159" r="4"/><circle cx="997" cy="159" r="4"/></g>
+  <rect x="359" y="278" width="482" height="35" rx="17.5" fill="#111B31" stroke="#5E8CD1" stroke-opacity=".4"/><text x="600" y="300" text-anchor="middle" fill="#AABBD5" font-family="monospace" font-size="10" letter-spacing="1.6">OFFLINE PACKAGES  ·  GROWING STANDARD LIBRARY  ·  NATIVE OUTPUT</text>
+  <text x="600" y="340" text-anchor="middle" fill="#7186A7" font-family="monospace" font-size="9" letter-spacing="1.6">A CONCEPTUAL VIEW OF THE PROJECT'S BOOTSTRAP STAGES</text>
 </svg>
