@@ -35,6 +35,16 @@
   <circle cx="96" cy="451.5" r="4.5" fill="#73F1F4"/>
   <text x="112" y="456" fill="#C9F9FF" font-family="monospace" font-size="12" letter-spacing="1.5">CURIOSITY  /  COURAGE</text>
   <text x="75" y="622" fill="#7287A5" font-family="monospace" font-size="10" letter-spacing="2">ORIGINAL SHINOBI CHARACTER · GITHUB PROFILE ART</text>
+  <!-- Floating code cards, a protective shield, and linked research nodes -->
+  <g opacity=".85" stroke="#69DBF3" stroke-opacity=".66" fill="#132844">
+    <path d="M1017 120h106l10 10v62l-10 10h-106l-10-10v-62l10-10Z" fill="#101C31"/>
+    <path d="M1021 136h68m-68 12h83m-83 12h48" stroke-width="2" stroke-linecap="round"/>
+    <path d="m1097 227 25 9v20c0 19-25 33-25 33s-25-14-25-33v-20l25-9Z" fill="#172547" stroke="#A797FF" stroke-width="1.8"/>
+    <path d="m1087 255 7 7 14-16" stroke="#D8D1FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1058" cy="309" r="5"/><circle cx="1128" cy="321" r="5"/><circle cx="1094" cy="354" r="5"/>
+    <path d="m1058 309 36 45 34-33-70-12Z" fill="none" stroke-dasharray="3 5"/>
+  </g>
+  <g font-family="monospace" font-size="8" fill="#A3F1FF" opacity=".76"><text x="1019" y="174">.sa / secure</text><text x="1019" y="186">compile → native</text></g>
   <!-- Glow and cast shadow behind character -->
   <ellipse cx="898" cy="602" rx="238" ry="34" fill="#358AFF" fill-opacity=".32" filter="url(#glow)"/>
   <ellipse cx="906" cy="626" rx="176" ry="26" fill="#050916" opacity=".88" filter="url(#shadow)"/>

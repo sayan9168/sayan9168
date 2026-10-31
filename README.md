@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Sayan Mahata — Systems Architect and Security Researcher" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Fictional 3D-inspired systems-architect avatar among cyberpunk compiler, security, and neural-network holograms; concept art, not a portrait." width="100%" />
 
 <br />
 
@@ -53,7 +53,7 @@ Open to conversations about **systems and compiler engineering**, **security res
 <summary><b>⚡ Current focus &amp; working principles</b></summary>
 <br />
 
-- Designing **Sayanox** (`.sa`): a self-hosting compiler, seed-to-gen2 bootstrap, native x86-64 AOT, offline packages, and a growing standard library.
+- Designing **Sayanox** (`.sa`): a self-hosting compiler, seed-to-gen3 bootstrap, native x86-64 AOT, offline packages, and a growing standard library.
 - Exploring **AI-native security**, autonomous testing, threat intelligence, and digital forensics.
 - Researching **kernels, reverse engineering, exploit development**, and systems programming.
 - Building **full-stack products and cloud architecture** with security in mind.
@@ -176,18 +176,29 @@ Build and run the native example from the repository root:
 
 <br /><br />
 
-<img src="./assets/project-universe.svg" alt="An isometric orbital map of Sayanox, Nexus OSINT, Universal Gradient Theory, and Kernel-X around a central builder hub." width="100%" />
+<img src="./assets/project-universe.svg" alt="An isometric orbital map with Sayanox as the central language hub and connected project satellites." width="100%" />
 
 <sub>Project orbit is a visual index—not a popularity, performance, or activity chart.</sub>
 
-### 🎌 A salute to curious builders
+### 🧑‍💻 Cinematic character concepts
+
+<table>
+<tr>
+<td width="34%" valign="top">
+<img src="./assets/researcher-portrait.svg" alt="Full-body, fictional Indian researcher avatar in a charcoal tech hoodie with cyan circuit accents." width="100%" />
+</td>
+<td width="66%" valign="top">
+<img src="./assets/anime-salute.svg" alt="Original anime-inspired shinobi with golden spiky hair and an orange jacket, giving a friendly salute to the viewer." width="100%" />
+</td>
+</tr>
+</table>
+
+<sub>Original concept illustrations—not photographs, personal likenesses, official Naruto artwork, or live 3D scenes.</sub>
+
+### ◈ Holographic icon kit
 
 <div align="center">
-
-<img src="./assets/anime-salute.svg" alt="Original 3D-inspired anime shinobi with golden spiky hair and an orange jacket, giving a friendly salute to the viewer." width="100%" />
-
-<sub>Original anime-inspired shinobi artwork—not an official Naruto image or live 3D scene.</sub>
-
+<img src="./assets/holographic-icons.svg" alt="Transparent set of glowing 3D-inspired shield, compiler gear, neural network, research terminal, and lock icons." width="100%" />
 </div>
 
 </div>
@@ -210,10 +221,10 @@ A quick view of the connected problem spaces I work across—from compiler inter
 <summary><b>🧱 Open the Sayanox compiler pipeline</b></summary>
 <br />
 
-The language project brings together a seed-to-gen2 bootstrap, self-hosting compiler, native x86-64 AOT, offline packages, and a growing standard library.
+The compiler bootstrap progresses from the seed through gen1, gen2, and gen3 into native x86-64 AOT, alongside offline packages and a growing standard library.
 
 <div align="center">
-<img src="./assets/sayanox-pipeline.svg" alt="Sayanox code flows through bootstrap and self-hosted compiler stages to native x86-64 AOT output." width="100%" />
+<img src="./assets/sayanox-pipeline.svg" alt="Sayanox source flows through seed, gen1, gen2, gen3, and native x86-64 AOT stages." width="100%" />
 </div>
 
 </details>

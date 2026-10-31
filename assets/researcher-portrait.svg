@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="680" viewBox="0 0 510 680" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Full-body stylized 3D researcher avatar</title>
+  <desc id="desc">An original fictional Indian male systems researcher in his mid-twenties with short black hair, an understated charcoal tech hoodie with cyan circuit accents, dark trousers, and one hand raised slightly. Full-body concept render, not a photograph or likeness.</desc>
+  <defs>
+    <linearGradient id="bg" x1="18" y1="0" x2="492" y2="680" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset=".55" stop-color="#0E1930"/><stop offset="1" stop-color="#1A1531"/></linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(0 260 -205 0 255 390)" gradientUnits="userSpaceOnUse"><stop stop-color="#167CAE" stop-opacity=".32"/><stop offset="1" stop-color="#7353C7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="skin" x1="203" y1="148" x2="307" y2="277" gradientUnits="userSpaceOnUse"><stop stop-color="#F1C9AA"/><stop offset=".55" stop-color="#C78D76"/><stop offset="1" stop-color="#8A5962"/></linearGradient>
+    <linearGradient id="hair" x1="194" y1="105" x2="319" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#46546A"/><stop offset=".48" stop-color="#1A2639"/><stop offset="1" stop-color="#080E19"/></linearGradient>
+    <linearGradient id="hoodie" x1="128" y1="285" x2="393" y2="469" gradientUnits="userSpaceOnUse"><stop stop-color="#30445D"/><stop offset=".5" stop-color="#17263B"/><stop offset="1" stop-color="#101522"/></linearGradient>
+    <linearGradient id="pants" x1="190" y1="428" x2="334" y2="618" gradientUnits="userSpaceOnUse"><stop stop-color="#26354B"/><stop offset="1" stop-color="#111927"/></linearGradient>
+    <linearGradient id="cyan" x1="123" y1="300" x2="398" y2="485" gradientUnits="userSpaceOnUse"><stop stop-color="#69F0F4"/><stop offset=".52" stop-color="#3C9EEA"/><stop offset="1" stop-color="#AE7CFF"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#A4C7FF" stroke-opacity=".052"/></pattern>
+    <filter id="blur" x="-35%" y="-35%" width="170%" height="170%"><feGaussianBlur stdDeviation="17"/></filter>
+  </defs>
+  <rect x="1" y="1" width="508" height="678" rx="23" fill="url(#bg)" stroke="#7AB8F4" stroke-opacity=".27" stroke-width="2"/>
+  <rect x="2" y="2" width="506" height="676" rx="22" fill="url(#grid)"/><rect x="2" y="2" width="506" height="676" rx="22" fill="url(#aura)"/>
+  <text x="255" y="39" text-anchor="middle" fill="#82E8F4" font-family="monospace" font-size="10" letter-spacing="2.4">SYSTEMS  /  SECURITY  /  CURIOSITY</text>
+  <path d="M34 88h71l17-17h49m305 36h-55l-17 17h-42" stroke="#61D8EF" stroke-opacity=".34"/><g fill="#9DEEFF"><circle cx="122" cy="71" r="2.4"/><circle cx="405" cy="124" r="2.2"/><circle cx="67" cy="393" r="2"/><circle cx="452" cy="476" r="2"/></g>
+  <!-- soft stage lighting and floor shadow -->
+  <ellipse cx="255" cy="610" rx="138" ry="22" fill="#4D9DDB" opacity=".32" filter="url(#blur)"/><ellipse cx="255" cy="623" rx="101" ry="14" fill="#050916" opacity=".78"/>
+  <!-- legs, dark tapered trousers -->
+  <path d="M191 416h128l-8 102-22 91h-60l-12-91-26-102Z" fill="url(#pants)" stroke="#536983" stroke-width="2"/>
+  <path d="M252 427h9l-6 180h-26l-12-89-16-81 51-10Z" fill="#34445A" fill-opacity=".56"/>
+  <path d="m203 453 46 14m31-14-39 14m-25 61h24m21 0h28m-70 55h30m14 0h27" stroke="#7188A0" stroke-opacity=".42" stroke-width="2"/>
+  <!-- shoes -->
+  <path d="M222 594h54l10 32c3 10-3 17-14 17h-83c-8 0-11-7-5-14l38-35Zm76 0h25l23 30c7 9 4 18-8 18h-73l8-16 25-32Z" fill="#141E2C" stroke="#69839D" stroke-width="2"/>
+  <path d="M188 633h92m-11-8 10 8m59 1h-78" stroke="#5DE3F1" stroke-width="3" stroke-linecap="round"/>
+  <!-- body and tech hoodie -->
+  <path d="M186 282c-39 17-64 52-79 107l-23 83h343l-24-83c-15-56-42-91-81-107l-49-17h-43l-44 17Z" fill="url(#hoodie)" stroke="#607C99" stroke-width="2"/>
+  <path d="M186 286c-29 24-47 58-58 106l-22 80h45l52-125-17-61Zm137 0c31 24 48 60 60 106l22 80h-46l-53-125 17-61Z" fill="#263A52" stroke="#607C99" stroke-width="1.4"/>
+  <path d="m201 290-37 164m146-164 37 164" stroke="url(#cyan)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="m217 269 38 37 38-37 11 177h-98l11-177Z" fill="#1A2A3F" stroke="#6E8AA7" stroke-width="2"/>
+  <path d="m217 285 38 29 38-29m-72 64h67m-69 28h65m-62 28h58" stroke="url(#cyan)" stroke-opacity=".82" stroke-width="2"/>
+  <path d="M235 329h40v27h-40z" fill="#0D192B" stroke="#50D8EA"/><text x="255" y="347" text-anchor="middle" fill="#A8F3FF" font-family="monospace" font-size="7.5">SYS / SEC</text>
+  <!-- one hand slightly raised in greeting -->
+  <path d="M101 389c-12-24-13-48-3-68l12-21c5-9 15-6 14 4l-3 18 15-24c6-9 16-5 12 5l-12 31 18-18c7-7 15 0 10 9l-18 32c-10 19-23 33-42 46l-6-14Z" fill="url(#skin)" stroke="#F1C6A7" stroke-width="1.5"/>
+  <path d="M106 379c-3 14 0 27 9 38l29 34-22 24-42-44c-15-17-13-36-4-52l25-45 19 10-14 35Z" fill="url(#hoodie)" stroke="#5C7894" stroke-width="2"/>
+  <path d="M85 435 119 466" stroke="#56D9E9" stroke-width="2"/>
+  <!-- neck and face -->
+  <path d="M218 222v52c0 23 15 38 37 38s37-15 37-38v-52h-74Z" fill="url(#skin)"/>
+  <path d="M218 244c18 20 52 24 74 5v33c-18 24-56 23-74-2v-36Z" fill="#945B5A" fill-opacity=".48"/>
+  <ellipse cx="190" cy="194" rx="15" ry="24" fill="#C98E77"/><ellipse cx="320" cy="194" rx="15" ry="24" fill="#C98E77"/>
+  <path d="M199 139c7-34 31-52 57-52 32 0 57 19 63 53l-5 82c-3 39-27 62-58 63-33 1-58-23-61-63l4-83Z" fill="url(#skin)" stroke="#FFD7B7" stroke-opacity=".5" stroke-width="1.7"/>
+  <path d="M209 192c10-10 23-11 32-2-8 12-24 13-32 2Zm56-2c10-9 24-9 33 2-9 11-24 12-33-2Z" fill="#FFF3E8" stroke="#875B58" stroke-width="1.3"/>
+  <ellipse cx="230" cy="192" rx="5.2" ry="7.5" fill="#3B7EAF"/><ellipse cx="278" cy="192" rx="5.2" ry="7.5" fill="#3B7EAF"/><circle cx="231" cy="190" r="2" fill="white"/><circle cx="279" cy="190" r="2" fill="white"/>
+  <path d="M210 179c9-6 20-7 30-2m24-2c10-6 21-5 30 2" stroke="#342D36" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M255 199c-2 11-6 20-4 23 3 3 7 3 10 0m-16 24c7 5 18 5 25 0" stroke="#955F5C" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- short, neat hair -->
+  <path d="M181 179c-8-31 2-64 29-82 23-15 59-15 84 1 27 17 37 47 29 81l-17-24-12 15-13-27-16 19-15-22-16 23-13-16-12 25-15-8-13 15Z" fill="url(#hair)" stroke="#70849B" stroke-width="1.7" stroke-linejoin="round"/>
+  <path d="m200 136 15-27 12 24m15-35 13 27 17-24 10 31 16-18 9 25" stroke="#91A5BA" stroke-opacity=".42" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- floating holographic system elements -->
+  <g font-family="monospace" font-size="7.5"><rect x="34" y="222" width="75" height="34" rx="7" fill="#10233A" stroke="#4BBFD9"/><text x="71" y="237" text-anchor="middle" fill="#89ECF4">compiler</text><path d="M45 245h52m-52 5h33" stroke="#5A8CA8"/><rect x="397" y="257" width="82" height="36" rx="7" fill="#171E3B" stroke="#8E7CE1"/><text x="438" y="272" text-anchor="middle" fill="#C9BBFF">threat map</text><path d="M408 280h60m-60 5h35" stroke="#756CB0"/></g>
+  <path d="M109 239h64m159 35h65" stroke="#62DBEA" stroke-dasharray="3 5"/>
+  <text x="255" y="662" text-anchor="middle" fill="#BDCDDF" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.1">BUILD THOUGHTFULLY · SECURE BY DESIGN</text>
+</svg>

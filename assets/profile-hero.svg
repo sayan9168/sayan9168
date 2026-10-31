@@ -1,53 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Sayan Mahata — Systems Architect and Security Researcher</title>
-  <desc id="desc">A dark, futuristic profile banner with a glowing isometric 3D cube, circuit traces, and a luminous blue-violet horizon.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sayan Mahata — cinematic systems architect profile banner</title>
+  <desc id="desc">A fictional, stylized 3D-inspired Indian systems architect avatar in a modern dark tech jacket, centered amid holographic compiler-flow panels, security shields, neural nodes, and blue-cyan volumetric light. It is an illustration, not a photo or likeness.</desc>
   <defs>
-    <linearGradient id="bg" x1="100" y1="0" x2="1050" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#080D18"/><stop offset=".52" stop-color="#0A1222"/><stop offset="1" stop-color="#11102B"/></linearGradient>
-    <linearGradient id="edge" x1="720" y1="100" x2="1040" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#8AF7FF"/><stop offset=".48" stop-color="#42A5FF"/><stop offset="1" stop-color="#B77AFF"/></linearGradient>
-    <linearGradient id="faceA" x1="795" y1="124" x2="960" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#153B5B"/><stop offset="1" stop-color="#0C1A34"/></linearGradient>
-    <linearGradient id="faceB" x1="932" y1="203" x2="1010" y2="339" gradientUnits="userSpaceOnUse"><stop stop-color="#25366C"/><stop offset="1" stop-color="#171A43"/></linearGradient>
-    <linearGradient id="faceC" x1="790" y1="250" x2="936" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#102B48"/><stop offset="1" stop-color="#10152E"/></linearGradient>
-    <linearGradient id="titleGrad" x1="80" y1="150" x2="650" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#F5FBFF"/><stop offset=".62" stop-color="#B8E9FF"/><stop offset="1" stop-color="#A8A4FF"/></linearGradient>
-    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(275 0 0 180 900 245)" gradientUnits="userSpaceOnUse"><stop stop-color="#287DFF" stop-opacity=".26"/><stop offset="1" stop-color="#7556FF" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0v36" stroke="#91B8FF" stroke-opacity=".07" stroke-width="1"/></pattern>
-    <filter id="glow" x="650" y="32" width="500" height="430" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
-    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5"/></filter>
+    <linearGradient id="bg" x1="53" y1="0" x2="1127" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#060B16"/><stop offset=".5" stop-color="#0A1426"/><stop offset="1" stop-color="#15152E"/></linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(350 0 0 270 600 288)" gradientUnits="userSpaceOnUse"><stop stop-color="#147FB4" stop-opacity=".34"/><stop offset=".55" stop-color="#3C67C9" stop-opacity=".16"/><stop offset="1" stop-color="#573AC0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="face" x1="515" y1="148" x2="681" y2="345" gradientUnits="userSpaceOnUse"><stop stop-color="#F5CFAC"/><stop offset=".46" stop-color="#C98F76"/><stop offset="1" stop-color="#875764"/></linearGradient>
+    <linearGradient id="hair" x1="507" y1="104" x2="687" y2="206" gradientUnits="userSpaceOnUse"><stop stop-color="#4C5B70"/><stop offset=".34" stop-color="#1B273B"/><stop offset="1" stop-color="#080D18"/></linearGradient>
+    <linearGradient id="jacket" x1="389" y1="359" x2="814" y2="558" gradientUnits="userSpaceOnUse"><stop stop-color="#31465F"/><stop offset=".4" stop-color="#17273C"/><stop offset="1" stop-color="#101725"/></linearGradient>
+    <linearGradient id="trim" x1="408" y1="367" x2="802" y2="537" gradientUnits="userSpaceOnUse"><stop stop-color="#55ECF4"/><stop offset=".55" stop-color="#348FE0"/><stop offset="1" stop-color="#9A70FF"/></linearGradient>
+    <linearGradient id="panel" x1="99" y1="167" x2="303" y2="334" gradientUnits="userSpaceOnUse"><stop stop-color="#13263C" stop-opacity=".93"/><stop offset="1" stop-color="#10162A" stop-opacity=".75"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0v34" stroke="#99BFFF" stroke-opacity=".055"/></pattern>
+    <filter id="glow" x="277" y="42" width="646" height="508" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="29"/></filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8"/></filter>
   </defs>
-  <rect width="1200" height="480" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="480" rx="26" fill="url(#grid)"/>
-  <rect width="1200" height="480" rx="26" fill="url(#aura)"/>
-  <path d="M26 390h420l55-55h98M26 407h265l22-22h120M1174 72H1038l-24 24h-82M1174 91h-76l-20 20h-66" stroke="#4ECFFF" stroke-opacity=".19" stroke-width="1.4"/>
-  <path d="M55 62h120M55 70h70M1080 402h65M1104 410h41" stroke="#8FAFFF" stroke-opacity=".32" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="450" cy="335" r="3" fill="#66E8FF"/><circle cx="312" cy="385" r="2" fill="#8B7DFF"/><circle cx="1014" cy="96" r="3" fill="#7CEBFF"/>
-  <g opacity=".32" stroke="#6693E8" stroke-width="1"><path d="M676 64v352M690 64v352M1059 64v352M1073 64v352"/><path d="M650 82h472M650 98h472M650 382h472M650 398h472"/></g>
-  <text x="78" y="102" fill="#72E6FF" font-family="monospace" font-size="13" letter-spacing="4">INDEPENDENT BUILDER  /  WEST BENGAL, INDIA</text>
-  <path d="M78 122h348" stroke="#4BCFFF" stroke-opacity=".55"/>
-  <text x="72" y="211" fill="url(#titleGrad)" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="1">SAYAN MAHATA</text>
-  <text x="80" y="254" fill="#C4D2E8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2.3">SYSTEMS ARCHITECT  ·  SECURITY RESEARCHER</text>
-  <text x="80" y="304" fill="#899AB7" font-family="Arial, Helvetica, sans-serif" font-size="16">Designing compilers, exploring systems, building secure-by-design tools.</text>
-  <g transform="translate(80 350)">
-    <rect width="170" height="36" rx="18" fill="#12243A" stroke="#2F7D9A" stroke-opacity=".7"/>
-    <circle cx="19" cy="18" r="4" fill="#63E5FF"/><text x="32" y="23" fill="#C6F5FF" font-family="monospace" font-size="12" letter-spacing="1.2">LANGUAGE DESIGN</text>
-    <rect x="181" width="139" height="36" rx="18" fill="#171A38" stroke="#6557A9" stroke-opacity=".7"/>
-    <circle cx="200" cy="18" r="4" fill="#A99AFF"/><text x="213" y="23" fill="#E0D9FF" font-family="monospace" font-size="12" letter-spacing="1.2">SECURITY R&amp;D</text>
-  </g>
-  <!-- soft bloom behind the low-poly, isometric systems core -->
-  <g filter="url(#glow)" opacity=".72"><path d="m895 103 136 79v158l-136 79-136-79V182l136-79Z" fill="#347DFF"/></g>
-  <g opacity=".22" filter="url(#soft)"><path d="m895 112 130 75v150l-130 75-130-75V187l130-75Z" stroke="#55DBFF" stroke-width="12"/></g>
-  <g stroke="url(#edge)" stroke-width="2.4" stroke-linejoin="round">
-    <path d="m895 106 132 76v152l-132 76-132-76V182l132-76Z" fill="#0A1428" fill-opacity=".82"/>
-    <path d="m895 106 132 76-132 76-132-76 132-76Z" fill="url(#faceA)"/>
-    <path d="M763 182v152l132 76V258l-132-76Z" fill="url(#faceC)"/>
-    <path d="M1027 182v152l-132 76V258l132-76Z" fill="url(#faceB)"/>
-  </g>
-  <g stroke="#A0F5FF" stroke-opacity=".72" stroke-width="1.5">
-    <path d="m895 137 86 50-86 50-86-50 86-50Z"/>
-    <path d="m895 160 46 27-46 27-46-27 46-27Z"/>
-    <path d="M895 137v50m0 0v50M809 187l86 50 86-50M763 212l132 76 132-76M763 242l132 76 132-76M763 273l132 76 132-76" opacity=".34"/>
-  </g>
-  <path d="m895 175 22 12-22 13-22-13 22-12Z" fill="#9BFAFF"/><path d="m895 175 22 12-22 13v-25Z" fill="#66B8FF"/>
-  <circle cx="895" cy="187" r="8" fill="#A3F5FF" opacity=".38" filter="url(#soft)"/>
-  <g fill="#76EFFF"><circle cx="895" cy="106" r="3.5"/><circle cx="1027" cy="182" r="3.5"/><circle cx="895" cy="410" r="3.5"/><circle cx="763" cy="182" r="3.5"/></g>
-  <text x="895" y="445" text-anchor="middle" fill="#8296BD" font-family="monospace" font-size="11" letter-spacing="3">IDEAS → SYSTEMS → IMPACT</text>
-  <path d="M26 1h1148a25 25 0 0 1 25 25v428a25 25 0 0 1-25 25H26a25 25 0 0 1-25-25V26A25 25 0 0 1 26 1Z" stroke="#83C7FF" stroke-opacity=".2" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="558" rx="27" fill="url(#bg)" stroke="#6CCBFF" stroke-opacity=".25" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="556" rx="26" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="556" rx="26" fill="url(#aura)"/>
+  <path d="M0 454h291l39-39h108M1200 112h-204l-35 35h-61" stroke="#54DCED" stroke-opacity=".22" stroke-width="1.5"/>
+  <g opacity=".28" stroke="#6BAEEB" stroke-width="1"><path d="M0 486h355m490-303h355M49 0v560m1102-560v560" stroke-dasharray="3 8"/><circle cx="600" cy="272" r="224"/><circle cx="600" cy="272" r="198" stroke-dasharray="2 8"/></g>
+  <!-- holographic panels, kept behind the portrait -->
+  <g><path d="M73 144h223l20 18v146l-20 18H73l-18-18V162l18-18Z" fill="url(#panel)" stroke="#4EB8E2" stroke-opacity=".58"/><text x="85" y="175" fill="#78EAF4" font-family="monospace" font-size="10" letter-spacing="2">COMPILER FLOW</text><path d="M88 199h44v27H88zM158 199h44v27h-44zM228 199h44v27h-44z" fill="#142C43" stroke="#4ABBD7" stroke-opacity=".65"/><path d="M132 212h22m48 0h22" stroke="#66EAF6" stroke-width="1.5"/><text x="110" y="217" text-anchor="middle" fill="#D4F7FF" font-family="monospace" font-size="9">SEED</text><text x="180" y="217" text-anchor="middle" fill="#D4F7FF" font-family="monospace" font-size="9">GEN 2</text><text x="250" y="217" text-anchor="middle" fill="#D4F7FF" font-family="monospace" font-size="9">AOT</text><path d="M88 251h174m-174 12h133m-133 12h153" stroke="#54738E" stroke-width="2" stroke-linecap="round"/></g>
+  <g><path d="M903 154h216l17 18v126l-17 18H903l-18-18V172l18-18Z" fill="url(#panel)" stroke="#8675EC" stroke-opacity=".58"/><text x="916" y="184" fill="#BAA8FF" font-family="monospace" font-size="10" letter-spacing="2">SECURITY SIGNAL</text><path d="m1009 203 34 13v26c0 27-34 46-34 46s-34-19-34-46v-26l34-13Z" fill="#1B2850" stroke="#62DDF0" stroke-width="1.5"/><path d="m996 241 9 9 18-21" stroke="#B6F7FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="946" cy="223" r="3" fill="#68E7F5"/><circle cx="1072" cy="249" r="3" fill="#B493FF"/><path d="M949 224 978 234m67 11 24 4" stroke="#83C8FC" stroke-opacity=".5" stroke-dasharray="3 5"/></g>
+  <g stroke="#52DBF0" stroke-opacity=".52"><path d="m377 178 20-22 21 22-21 22-20-22Zm426 5 20-22 21 22-21 22-20-22Z"/><path d="M397 156v44m-21-22h42m405 5v44m-21-22h42"/></g>
+  <g fill="#A0F7FF"><circle cx="347" cy="334" r="3"/><circle cx="850" cy="337" r="3"/><circle cx="403" cy="111" r="2"/><circle cx="796" cy="112" r="2"/></g>
+  <!-- atmospheric backlight and avatar shadow -->
+  <ellipse cx="600" cy="332" rx="185" ry="174" fill="#21C7E4" fill-opacity=".17" filter="url(#glow)"/>
+  <ellipse cx="600" cy="541" rx="179" ry="16" fill="#030711" opacity=".85" filter="url(#soft)"/>
+  <!-- shoulders / tech jacket -->
+  <path d="M442 403c-62 23-105 73-127 157h570c-26-85-69-136-130-157l-78-24H520l-78 24Z" fill="url(#jacket)" stroke="#587B9A" stroke-width="2"/>
+  <path d="M442 403c-51 24-85 71-107 157h77l66-127-36-30Zm316 0c54 25 90 76 113 157h-81l-63-128 31-29Z" fill="#263A52" stroke="#67839E" stroke-width="1.5"/>
+  <path d="M470 414 426 535m300-121 47 121" stroke="url(#trim)" stroke-width="3" stroke-linecap="round"/>
+  <path d="m520 387 80 60 80-60-17 173H539l-19-173Z" fill="#1A2A3F" stroke="#77A8C9" stroke-opacity=".68" stroke-width="2"/>
+  <path d="m520 397 80 52 80-52m-136 80h112m-108 34h104" stroke="url(#trim)" stroke-opacity=".78" stroke-width="2"/>
+  <rect x="567" y="460" width="66" height="38" rx="7" fill="#101D30" stroke="#52D9EC" stroke-opacity=".75"/><text x="600" y="484" text-anchor="middle" fill="#9AF4FF" font-family="monospace" font-size="9" letter-spacing="1">SYS / SEC</text>
+  <!-- neck -->
+  <path d="M552 334v66c0 28 20 48 48 48s48-20 48-48v-65l-96-1Z" fill="url(#face)"/>
+  <path d="M552 361c25 26 68 31 96 5v46c-24 31-73 30-96-2v-49Z" fill="#9E615D" fill-opacity=".55"/>
+  <!-- ears and face -->
+  <ellipse cx="502" cy="259" rx="22" ry="34" fill="#C88E76"/><ellipse cx="698" cy="259" rx="22" ry="34" fill="#C88E76"/>
+  <path d="M516 182c9-45 42-70 84-71 49-2 84 24 91 71l-6 105c-4 53-39 83-86 84-48 1-84-32-88-84l5-105Z" fill="url(#face)" stroke="#FFD7B6" stroke-opacity=".48" stroke-width="2"/>
+  <path d="M535 260c14-13 34-14 48-2-12 17-37 19-48 2Zm83-2c14-12 35-11 48 2-12 17-36 16-48-2Z" fill="#F7EFE6" stroke="#835A59" stroke-width="1.5"/>
+  <ellipse cx="560" cy="260" rx="7" ry="11" fill="#397CB1"/><ellipse cx="642" cy="260" rx="7" ry="11" fill="#397CB1"/><circle cx="562" cy="256" r="2.6" fill="white"/><circle cx="644" cy="256" r="2.6" fill="white"/>
+  <path d="M536 241c14-10 31-10 44-2m39-2c14-8 31-7 43 3" stroke="#3E3038" stroke-width="5" stroke-linecap="round"/>
+  <path d="M600 268c-3 16-9 29-6 33 4 4 9 4 13 0m-24 37c11 8 26 8 37 0" stroke="#955E5D" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M575 337c16 8 34 8 50 0" stroke="#FFD6B5" stroke-opacity=".63" stroke-width="2" stroke-linecap="round"/>
+  <!-- short, modern black hair silhouette -->
+  <path d="M501 240c-13-41-2-92 37-119 27-19 78-27 119-4 37 21 51 64 38 112l-23-39-17 20-17-40-23 28-17-33-23 34-19-23-16 39-21-12-18 37Z" fill="url(#hair)" stroke="#667D99" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m522 194 21-42 15 35m21-48 18 35 21-35 12 43 24-27 14 38" stroke="#8FA7BF" stroke-opacity=".48" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- small raised greeting hand beside the shoulder -->
+  <path d="M710 465c21-12 37-26 46-47l14-34c4-10 15-9 16 2l-2 27 18-35c5-10 16-7 15 4l-7 39 17-24c6-8 15-2 12 7l-15 37c-9 22-27 40-51 56l-39 23-24-55Z" fill="url(#face)" stroke="#F0C1A2" stroke-width="1.5"/>
+  <path d="M711 469c17 5 34 2 48-9" stroke="#67EAF3" stroke-width="2" stroke-opacity=".8"/>
+  <!-- mini 3D data blocks and signal paths -->
+  <g font-family="monospace" font-size="9"><path d="M327 377h74v31h-74z" fill="#10263C" stroke="#4ECDE4"/><text x="364" y="396" text-anchor="middle" fill="#A9F5FF">.sa</text><path d="M799 375h75v31h-75z" fill="#171E3B" stroke="#9584FF"/><text x="836" y="394" text-anchor="middle" fill="#D1C7FF">AI / SEC</text></g>
+  <path d="M401 392h31m346 0h21" stroke="#67D8EB" stroke-width="1.5" stroke-dasharray="3 5"/>
+  <!-- captions and framing -->
+  <text x="600" y="45" text-anchor="middle" fill="#B4EDFF" font-family="monospace" font-size="12" letter-spacing="3">SYSTEMS ARCHITECT  ·  SECURITY RESEARCHER</text>
+  <text x="600" y="538" text-anchor="middle" fill="#C7D9EC" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">IDEAS → SYSTEMS → IMPACT</text>
+  <path d="M27 1h1146a26 26 0 0 1 26 26v506a26 26 0 0 1-26 26H27a26 26 0 0 1-26-26V27A26 26 0 0 1 27 1Z" stroke="#85CFFF" stroke-opacity=".18" stroke-width="2"/>
 </svg>
